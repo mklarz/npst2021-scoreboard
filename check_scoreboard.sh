@@ -3,13 +3,18 @@
 # Dirty quick script to track the NPST2021 scoreboard. Buy me a beer :))
 
 ## CONSTANTS
-SCOREBOARD_URL="https://wiarnvnpsjysgqbwigrn.supabase.co/rest/v1/scoreboard?select=*"
+BASE_URL="https://wiarnvnpsjysgqbwigrn.supabase.co"
+LOGIN_URL="$BASE_URL/auth/v1/token?grant_type=password"
+SCOREBOARD_URL="$BASE_URL/rest/v1/scoreboard?select=*"
 SCRIPT_PATH="$( cd "$(dirname "$0")" >/dev/null 2>&1 ; pwd -P )"
 
 ## GOGO
 echo "Starting script..."
 cd $SCRIPT_PATH # dirty
 source "$SCRIPT_PATH/.env"
+
+# Login
+DASS_TOKEN=$(curl -s "$LOGIN_URL" -H "apikey: $DASS_APIKEY" -H "content-type: application/json" -d "{\"email\":\"$DASS_EMAIL\",\"password\":\"$DASS_PASSWORD\"}" | jq -r '.access_token')
 
 # Download newest scoreboard
 curl -s "$SCOREBOARD_URL" -H "apikey: $DASS_APIKEY" -H "authorization: Bearer $DASS_TOKEN" -o "$SCRIPT_PATH/scoreboard.min.json"
