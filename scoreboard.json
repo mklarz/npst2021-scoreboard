@@ -435,7 +435,7 @@
   },
   {
     "user_id": "9efe9a1d-83ed-48cd-aa29-532b194a1a13",
-    "username": "boomer",
+    "username": "boomer💥💥💥",
     "score": 10,
     "num_solves": 1,
     "latest_solve_time": "2021-12-01T17:16:50.151435+00:00"
@@ -1006,5 +1006,33 @@
     "score": 10,
     "num_solves": 1,
     "latest_solve_time": "2021-12-01T18:04:19.780521+00:00"
+  },
+  {
+    "user_id": "681c8f16-3d17-482a-910d-1c636ac910f0",
+    "username": "ildvann",
+    "score": 10,
+    "num_solves": 1,
+    "latest_solve_time": "2021-12-01T18:05:40.328529+00:00"
+  },
+  {
+    "user_id": "df51a907-22dd-43cc-9e1b-401e8683f945",
+    "username": "SNAFU",
+    "score": 10,
+    "num_solves": 1,
+    "latest_solve_time": "2021-12-01T18:06:42.805814+00:00"
+  },
+  {
+    "user_id": "61192c8f-daf9-475e-8e83-443c3c165499",
+    "username": "White-hack",
+    "score": 10,
+    "num_solves": 1,
+    "latest_solve_time": "2021-12-01T18:07:35.141674+00:00"
+  },
+  {
+    "user_id": "7d97409e-cffa-4620-bdd0-a1d5ba4b2382",
+    "username": "player1",
+    "score": 10,
+    "num_solves": 1,
+    "latest_solve_time": "2021-12-01T18:08:04.249711+00:00"
   }
 ]
