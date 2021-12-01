@@ -1,0 +1,35 @@
+<title>NPST2021 - Scoreboard</title>
+<script>
+function addData(series) {
+  ["challenges", "eggs"].forEach(key => {
+  const chart = Highcharts.chart(key, {
+      chart: {
+          type: 'line'
+      },
+      title: {
+          text: 'NPST2021 - ' + key
+      },
+      xAxis: {
+          type: "datetime",
+      },
+      yAxis: {
+          allowDecimals: false,
+          title: {
+              text: key,
+          },
+      },
+      series: series[key],
+  })});
+}
+
+//var URL = "https://mklarz.github.io/npst2021-scoreboard/series.json";
+var URL = "./series.json";
+document.addEventListener('DOMContentLoaded', function () {
+  $.getJSON(URL, addData);
+  });
+</script>
+
+<div id="challenges" style="width:100%; height:400px;"></div>
+<div id="eggs" style="width:100%; height:400px;"></div>
+<script src="https://code.highcharts.com/highcharts.js"></script>
+<script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
