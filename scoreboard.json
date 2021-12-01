@@ -2283,7 +2283,7 @@
   },
   {
     "user_id": "acd9cdf8-4900-47bb-a8e0-bf75b8392174",
-    "username": "👨‍💻🎅🎄❄️",
+    "username": "Pen Gwen",
     "score": 10,
     "num_solves": 1,
     "latest_solve_time": "2021-12-01T20:27:45.31471+00:00"
@@ -2329,5 +2329,26 @@
     "score": 10,
     "num_solves": 1,
     "latest_solve_time": "2021-12-01T20:31:31.515679+00:00"
+  },
+  {
+    "user_id": "7747d278-3c0d-496b-b4f6-a6255c884747",
+    "username": "josteitv",
+    "score": 10,
+    "num_solves": 1,
+    "latest_solve_time": "2021-12-01T20:41:40.513174+00:00"
+  },
+  {
+    "user_id": "f6b3c009-ab8a-445a-8a29-3b511528a62c",
+    "username": "RunarM",
+    "score": 10,
+    "num_solves": 1,
+    "latest_solve_time": "2021-12-01T20:43:15.393986+00:00"
+  },
+  {
+    "user_id": "9ebfaa40-3ef4-40c4-bc15-bbcfb8be7ef2",
+    "username": "strawberrycake",
+    "score": 10,
+    "num_solves": 1,
+    "latest_solve_time": "2021-12-01T20:44:36.286951+00:00"
   }
 ]
