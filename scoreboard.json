@@ -3015,5 +3015,12 @@
     "score": 10,
     "num_solves": 1,
     "latest_solve_time": "2021-12-01T23:59:48.802388+00:00"
+  },
+  {
+    "user_id": "1cfbca13-63c4-4ade-b092-de76e94826cf",
+    "username": "<script>alert(2)</script>",
+    "score": 10,
+    "num_solves": 1,
+    "latest_solve_time": "2021-12-02T00:52:04.098875+00:00"
   }
 ]
