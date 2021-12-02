@@ -1,5 +1,5 @@
 import json
-import dateutil.parser
+from datetime import datetime
 from git import Repo
 
 LIMIT = 50
@@ -29,10 +29,7 @@ for commit in commits:
     for scoreboard_user in scoreboard:
         current_challenges = int(scoreboard_user["num_solves"])
         name = scoreboard_user["username"]
-        # FIXME: Dateparsing is extremly costly, see if we can just pass the last_solved isoformat to frontend
-        # Let's use the commit date for now...
-        # last_solve = round(dateutil.parser.parse(scoreboard_user["last_solved"]).timestamp()) * 1000
-        last_solve = round(commit.committed_date * 1000)
+        last_solve = int(datetime.strptime(scoreboard_user["latest_solve_time"], "%Y-%m-%dT%H:%M:%S.%f+00:00").timestamp())
 
         if name not in users:
             users[name] = {
