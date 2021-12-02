@@ -13,21 +13,18 @@ echo "Starting script..."
 cd $SCRIPT_PATH # dirty
 source "$SCRIPT_PATH/.env"
 
-# Login
-DASS_TOKEN=$(curl -s "$LOGIN_URL" -H "apikey: $DASS_APIKEY" -H "content-type: application/json" -d "{\"email\":\"$DASS_EMAIL\",\"password\":\"$DASS_PASSWORD\"}" | jq -r '.access_token')
-
 # Download newest scoreboard
-curl -s "$SCOREBOARD_URL" -H "apikey: $DASS_APIKEY" -H "authorization: Bearer $DASS_TOKEN" -o "$SCRIPT_PATH/scoreboard.min.json"
+curl -s "$SCOREBOARD_URL" -H "apikey: $DASS_APIKEY" -o "$SCRIPT_PATH/scoreboard.min.json"
+
 # Let's "prettify" the json as well
 cat "$SCRIPT_PATH/scoreboard.min.json" | jq > "$SCRIPT_PATH/scoreboard.json"
 
 if [[ `git status --porcelain` ]]; then
-	echo "There are differences, updating"
-	git add -A
-	git commit -m "[SCOREBOARD] update"
-	git push origin main
-  # TODO:
-  # python3 ./generate_series.py
+  echo "There are differences, updating"
+  git add -A
+  git commit -m "[SCOREBOARD] update"
+  git push origin main
+  python3 ./generate_series.py
 else
-	echo "No differences"
+  echo "No differences"
 fi

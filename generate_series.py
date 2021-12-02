@@ -20,16 +20,15 @@ for commit in commits:
     print("Parsing: {} - {}".format(commit.hexsha, commit.committed_date))
     content = repo.git.show('{}:{}'.format(commit.hexsha, "scoreboard.min.json")).strip()
     try:
-        scoreboard = json.loads(content)["result"]
+        scoreboard = json.loads(content)
     except Exception as e:
         # print(scoreboard)
         # print("Error for scoreboard ", e)
         continue
     last_scoreboard = scoreboard
     for scoreboard_user in scoreboard:
-        current_challenges = int(scoreboard_user["challenges_solved"])
-        current_eggs = int(scoreboard_user["eggs_solved"])
-        name = scoreboard_user["display_name"]
+        current_challenges = int(scoreboard_user["num_solves"])
+        name = scoreboard_user["username"]
         # FIXME: Dateparsing is extremly costly, see if we can just pass the last_solved isoformat to frontend
         # Let's use the commit date for now...
         # last_solve = round(dateutil.parser.parse(scoreboard_user["last_solved"]).timestamp()) * 1000
@@ -39,7 +38,6 @@ for commit in commits:
             users[name] = {
                 "last_solve": last_solve,
                 "challenges": [format_item(last_solve, current_challenges)],
-                "eggs": [format_item(last_solve, current_eggs)],
             }
             continue
 
@@ -50,35 +48,22 @@ for commit in commits:
             if current_challenges != last_challenge[1]:
                 user["challenges"].append(format_item(last_solve, current_challenges))
 
-
-        if len(user["eggs"]) > 0:
-            last_egg = user["eggs"][-1]
-            if current_eggs != last_egg[1]:
-                user["eggs"].append(format_item(last_solve, current_eggs))
-
         users[name] = user
 
 series = {
     "challenges": [],
-    "eggs": [],
 }
 
 # Only extract topp <LIMIT> users
 for index, scoreboard_user in enumerate(last_scoreboard[:LIMIT]):
-    name = scoreboard_user["display_name"]
+    name = scoreboard_user["username"]
     user = users[name]
-    last_challenge = scoreboard_user["challenges_solved"]
-    last_egg = scoreboard_user["eggs_solved"]
+    last_challenge = scoreboard_user["num_solves"]
     base = {
-        "name": "#{}. {} ({}🏆 - {}🥚)".format(index + 1, name, last_challenge, last_egg),
+        "name": f"#{index + 1}. {name} {last_challenge}🏆",
         "step": "left",
     } 
-    series["challenges"].append({**base, **{
-        "data": user["challenges"],
-    }});
-    series["eggs"].append({**base, **{
-        "data": user["eggs"],
-    }});
+    series["challenges"].append({**base, **{"data": user["challenges"]}});
 
 with open("series.json", "w") as f:
     json.dump(series, f)
