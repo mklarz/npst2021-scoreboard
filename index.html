@@ -1,34 +1,52 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- https://github.com/mklarz/npst2021-scoreboard -->
 <title>NPST2021 - Scoreboard</title>
+</head>
+<body>
+<div id="chart" style="width: 100%; height: 80vh;"></div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/echarts/5.2.2/echarts.min.js" integrity="sha512-ivdGNkeO+FTZH5ZoVC4gS4ovGSiWc+6v60/hvHkccaMN2BXchfKdvEZtviy5L4xSpF8NPsfS0EVNSGf+EsUdxA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous"></script>
 <script>
 function addData(series) {
-  ["challenges"].forEach(key => {
-  const chart = Highcharts.chart(key, {
-      chart: {
-          type: 'line'
-      },
-      title: {
-          text: 'NPST2021 - ' + key
-      },
-      xAxis: {
-          type: "datetime",
-      },
-      yAxis: {
-          allowDecimals: false,
-          title: {
-              text: key,
-          },
-      },
-      series: series[key],
-  })});
+  var chart = echarts.init(document.getElementById('chart'));
+  chart.setOption({
+    title: {
+      left: 'center',
+        text: `NPST2021 - Top ${series.users.length} Users`
+    },
+    tooltip: {
+      order: 'valueDesc',
+      trigger: 'axis'
+    },
+    legend: {
+      bottom: 0,
+      show: true,
+      tooltip: {
+        show: true,
+        formatter: function(params) {
+          var user = series.users.find(user => user.name == params.name);
+          var last = user.data[user.data.length - 1][0]
+          return `<b>${params.name}</b><br>${last}`;
+        }
+      }
+    },
+    xAxis: {
+      type: 'time',
+    },
+    yAxis: {
+      type: 'value',
+      name: 'score'
+    },
+    series: series.users
+  });
 }
-
-//var URL = "https://mklarz.github.io/npst2021-scoreboard/series.json";
-var URL = "./series.json";
 document.addEventListener('DOMContentLoaded', function () {
-  $.getJSON(URL, addData);
+  $.getJSON("./series.json", addData);
 });
 </script>
-
-<div id="challenges" style="width:100%; height:700px;"></div>
-<script src="https://code.highcharts.com/highcharts.js"></script>
-<script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+</body>
+</html>

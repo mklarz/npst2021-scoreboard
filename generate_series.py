@@ -1,10 +1,11 @@
 import json
-from datetime import datetime
+import bleach
+from datetime import datetime, timezone
 from git import Repo
 
-LIMIT = 50
-
 # Quick, dirty and very inefficent script to generate formatted data for the line graph
+LIMIT = 10
+START_TIMESTAMP = datetime(2021, 12, 1, 17, tzinfo=timezone.utc).isoformat()
 
 def format_item(timestamp, value):
     return [timestamp, value]
@@ -27,40 +28,44 @@ for commit in commits:
         continue
     last_scoreboard = scoreboard
     for scoreboard_user in scoreboard:
-        current_challenges = int(scoreboard_user["num_solves"])
-        name = scoreboard_user["username"]
-        last_solve = int(datetime.strptime(scoreboard_user["latest_solve_time"], "%Y-%m-%dT%H:%M:%S.%f+00:00").timestamp())
+        current_score = int(scoreboard_user["score"])
+        current_solves = int(scoreboard_user["num_solves"])
+        user_id = scoreboard_user["user_id"]
+        last_solve = scoreboard_user["latest_solve_time"]
 
-        if name not in users:
-            users[name] = {
+        if user_id not in users:
+            users[user_id] = {
+                "name": scoreboard_user["username"],
                 "last_solve": last_solve,
-                "challenges": [format_item(last_solve, current_challenges)],
+                "solves": [format_item(START_TIMESTAMP, 0), format_item(last_solve, current_solves)],
+                "score": [format_item(START_TIMESTAMP, 0), format_item(last_solve, current_score)],
             }
             continue
 
-        user = users[name]
+        user = users[user_id]
 
-        if len(user["challenges"]) > 0:
-            last_challenge = user["challenges"][-1]
-            if current_challenges != last_challenge[1]:
-                user["challenges"].append(format_item(last_solve, current_challenges))
+        if len(user["solves"]) > 0:
+            last_challenge = user["solves"][-1]
+            if current_solves != last_challenge[1]:
+                user["solves"].append(format_item(last_solve, current_solves))
+                user["score"].append(format_item(last_solve, current_score))
 
-        users[name] = user
+        users[user_id] = user
 
 series = {
-    "challenges": [],
+    "users": [],
 }
 
 # Only extract topp <LIMIT> users
 for index, scoreboard_user in enumerate(last_scoreboard[:LIMIT]):
-    name = scoreboard_user["username"]
-    user = users[name]
+    user_id = scoreboard_user["user_id"]
+    user = users[user_id]
     last_challenge = scoreboard_user["num_solves"]
     base = {
-        "name": f"#{index + 1}. {name} {last_challenge}🏆",
-        "step": "left",
+        "name": bleach.clean(user["name"]), # there's a xss in the legend tooltip
+        "type": "line",
     } 
-    series["challenges"].append({**base, **{"data": user["challenges"]}});
+    series["users"].append({**base, **{"data": user["score"]}});
 
 with open("series.json", "w") as f:
     json.dump(series, f)
