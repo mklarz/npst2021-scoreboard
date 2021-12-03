@@ -64,6 +64,7 @@ for index, scoreboard_user in enumerate(last_scoreboard[:LIMIT]):
     base = {
         "name": bleach.clean(user["name"]), # there's a xss in the legend tooltip
         "type": "line",
+        "step": "end",
     } 
     series["users"].append({**base, **{"data": user["score"]}});
 
