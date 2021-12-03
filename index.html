@@ -5,14 +5,26 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <!-- https://github.com/mklarz/npst2021-scoreboard -->
 <title>NPST2021 - Scoreboard</title>
+<style>
+html, body {
+  margin: 0;
+  background: #100C2A;
+}
+#chart {
+  width: 100%;
+  height: 80vh;
+  padding-top: 20px;
+}
+</style>
 </head>
 <body>
-<div id="chart" style="width: 100%; height: 80vh;"></div>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/echarts/5.2.2/echarts.min.js" integrity="sha512-ivdGNkeO+FTZH5ZoVC4gS4ovGSiWc+6v60/hvHkccaMN2BXchfKdvEZtviy5L4xSpF8NPsfS0EVNSGf+EsUdxA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous"></script>
+<div id="chart"></div>
+<script src="./static/echarts-5.2.2.min.js" integrity="sha512-ivdGNkeO+FTZH5ZoVC4gS4ovGSiWc+6v60/hvHkccaMN2BXchfKdvEZtviy5L4xSpF8NPsfS0EVNSGf+EsUdxA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="./static/jquery-3.6.0.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="./static/theme.js" integirty="sha512-e5yUjHlsMcLwsXP8QBpfUofcbF3vG5oEbSiqvkTM/ShCzG7R9+HWBmQhI22nBXIq" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script>
 function addData(series) {
-  var chart = echarts.init(document.getElementById('chart'));
+  var chart = echarts.init(document.getElementById('chart'), 'dark');
   chart.setOption({
     title: {
       left: 'center',
