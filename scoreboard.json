@@ -2856,6 +2856,13 @@
     "latest_solve_time": "2021-12-03T01:25:00.491786+00:00"
   },
   {
+    "user_id": "c194ebf7-dad0-4e96-87c7-89008ebb833c",
+    "username": "Cookie",
+    "score": 20,
+    "num_solves": 2,
+    "latest_solve_time": "2021-12-03T02:18:36.067854+00:00"
+  },
+  {
     "user_id": "b1139496-398a-4f28-a16a-f6b1e824fe06",
     "username": "hhtjo",
     "score": 10,
@@ -4550,13 +4557,6 @@
     "latest_solve_time": "2021-12-02T19:36:43.244632+00:00"
   },
   {
-    "user_id": "c194ebf7-dad0-4e96-87c7-89008ebb833c",
-    "username": "Cookie",
-    "score": 10,
-    "num_solves": 1,
-    "latest_solve_time": "2021-12-02T19:49:41.278444+00:00"
-  },
-  {
     "user_id": "76e52f9d-a5c3-4243-b708-89d5584e2c1c",
     "username": "macpixel",
     "score": 10,
@@ -4772,5 +4772,12 @@
     "score": 10,
     "num_solves": 1,
     "latest_solve_time": "2021-12-03T00:33:25.702073+00:00"
+  },
+  {
+    "user_id": "5cdacfce-6147-4a21-a09f-2b17427d531f",
+    "username": "Jensus",
+    "score": 10,
+    "num_solves": 1,
+    "latest_solve_time": "2021-12-03T02:59:50.257035+00:00"
   }
 ]
