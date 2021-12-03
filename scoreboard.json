@@ -2884,6 +2884,27 @@
     "latest_solve_time": "2021-12-03T04:21:52.596151+00:00"
   },
   {
+    "user_id": "98992145-9664-495e-9ffb-46c70102fc01",
+    "username": "bjornr",
+    "score": 20,
+    "num_solves": 2,
+    "latest_solve_time": "2021-12-03T06:19:42.344984+00:00"
+  },
+  {
+    "user_id": "4a97f6a4-bdfa-46a9-b4ca-a4dffb336a39",
+    "username": "Notrack",
+    "score": 20,
+    "num_solves": 2,
+    "latest_solve_time": "2021-12-03T06:24:45.270385+00:00"
+  },
+  {
+    "user_id": "1a9c8839-788b-423f-9343-8bb0092cb04a",
+    "username": "mikado",
+    "score": 20,
+    "num_solves": 2,
+    "latest_solve_time": "2021-12-03T06:49:49.325904+00:00"
+  },
+  {
     "user_id": "b1139496-398a-4f28-a16a-f6b1e824fe06",
     "username": "hhtjo",
     "score": 10,
@@ -2945,13 +2966,6 @@
     "score": 10,
     "num_solves": 1,
     "latest_solve_time": "2021-12-01T17:19:45.736023+00:00"
-  },
-  {
-    "user_id": "98992145-9664-495e-9ffb-46c70102fc01",
-    "username": "bjornr",
-    "score": 10,
-    "num_solves": 1,
-    "latest_solve_time": "2021-12-01T17:20:14.091957+00:00"
   },
   {
     "user_id": "a7459d05-c7cf-47e6-884e-02c4b6a6a441",
@@ -3990,13 +4004,6 @@
     "latest_solve_time": "2021-12-02T09:32:11.870544+00:00"
   },
   {
-    "user_id": "4a97f6a4-bdfa-46a9-b4ca-a4dffb336a39",
-    "username": "Notrack",
-    "score": 10,
-    "num_solves": 1,
-    "latest_solve_time": "2021-12-02T09:33:51.252933+00:00"
-  },
-  {
     "user_id": "306e1697-41cd-4d4a-a472-c5aea0fd98ad",
     "username": "guru",
     "score": 10,
@@ -4044,13 +4051,6 @@
     "score": 10,
     "num_solves": 1,
     "latest_solve_time": "2021-12-02T10:03:38.968413+00:00"
-  },
-  {
-    "user_id": "1a9c8839-788b-423f-9343-8bb0092cb04a",
-    "username": "mikado",
-    "score": 10,
-    "num_solves": 1,
-    "latest_solve_time": "2021-12-02T10:06:07.012643+00:00"
   },
   {
     "user_id": "5baaf176-9837-43b3-b085-8e7d50697a50",
@@ -4786,5 +4786,12 @@
     "score": 10,
     "num_solves": 1,
     "latest_solve_time": "2021-12-03T05:20:31.928876+00:00"
+  },
+  {
+    "user_id": "edc329c9-3a26-4094-8cec-10b0a11349e4",
+    "username": "Tor",
+    "score": 10,
+    "num_solves": 1,
+    "latest_solve_time": "2021-12-03T06:55:51.955826+00:00"
   }
 ]
