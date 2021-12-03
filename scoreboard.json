@@ -3668,6 +3668,27 @@
     "latest_solve_time": "2021-12-03T14:58:46.768527+00:00"
   },
   {
+    "user_id": "634c25ce-14d7-42fb-bfda-35a3e6627392",
+    "username": "anxiety",
+    "score": 20,
+    "num_solves": 2,
+    "latest_solve_time": "2021-12-03T15:00:43.80085+00:00"
+  },
+  {
+    "user_id": "51207038-4f2f-46dd-9505-b664c3960c9e",
+    "username": "Acurus",
+    "score": 20,
+    "num_solves": 2,
+    "latest_solve_time": "2021-12-03T15:13:01.517198+00:00"
+  },
+  {
+    "user_id": "44fcd7cf-6d77-403b-92df-0bb286c4d4a8",
+    "username": "Øyvind",
+    "score": 20,
+    "num_solves": 2,
+    "latest_solve_time": "2021-12-03T15:28:24.596018+00:00"
+  },
+  {
     "user_id": "b1139496-398a-4f28-a16a-f6b1e824fe06",
     "username": "hhtjo",
     "score": 10,
@@ -4219,13 +4240,6 @@
     "score": 10,
     "num_solves": 1,
     "latest_solve_time": "2021-12-01T21:36:11.049648+00:00"
-  },
-  {
-    "user_id": "44fcd7cf-6d77-403b-92df-0bb286c4d4a8",
-    "username": "Øyvind",
-    "score": 10,
-    "num_solves": 1,
-    "latest_solve_time": "2021-12-01T21:38:10.913429+00:00"
   },
   {
     "user_id": "019267aa-ca43-406a-82b4-fe6b0bc030ea",
@@ -4886,13 +4900,6 @@
     "latest_solve_time": "2021-12-02T22:00:28.935272+00:00"
   },
   {
-    "user_id": "51207038-4f2f-46dd-9505-b664c3960c9e",
-    "username": "Acurus",
-    "score": 10,
-    "num_solves": 1,
-    "latest_solve_time": "2021-12-02T22:12:32.996131+00:00"
-  },
-  {
     "user_id": "d02d3b13-b7f1-4ec2-9408-67542fbf51fe",
     "username": "barbiesho",
     "score": 10,
@@ -5180,13 +5187,6 @@
     "latest_solve_time": "2021-12-03T12:16:20.635141+00:00"
   },
   {
-    "user_id": "634c25ce-14d7-42fb-bfda-35a3e6627392",
-    "username": "anxiety",
-    "score": 10,
-    "num_solves": 1,
-    "latest_solve_time": "2021-12-03T12:17:06.714524+00:00"
-  },
-  {
     "user_id": "c6c9d803-62a7-4f0d-9350-8c54693140af",
     "username": "ethorn",
     "score": 10,
@@ -5220,5 +5220,26 @@
     "score": 10,
     "num_solves": 1,
     "latest_solve_time": "2021-12-03T14:55:52.533155+00:00"
+  },
+  {
+    "user_id": "12a8537e-5c28-411e-a3a7-70323e5fb857",
+    "username": "xenocidewiki",
+    "score": 10,
+    "num_solves": 1,
+    "latest_solve_time": "2021-12-03T15:17:46.726189+00:00"
+  },
+  {
+    "user_id": "75be9ad4-8cb0-433c-8336-0921ca603c6e",
+    "username": "messel",
+    "score": 10,
+    "num_solves": 1,
+    "latest_solve_time": "2021-12-03T15:37:59.675044+00:00"
+  },
+  {
+    "user_id": "0cb23ae7-515f-4237-8209-367af9ef3ccc",
+    "username": "Moortiii",
+    "score": 10,
+    "num_solves": 1,
+    "latest_solve_time": "2021-12-03T15:58:18.520283+00:00"
   }
 ]
