@@ -25,10 +25,10 @@ cat "$SCRIPT_PATH/profiles.min.json" | jq > "$SCRIPT_PATH/profiles.json"
 
 if [[ `git status --porcelain` ]]; then
   echo "There are differences, updating"
+  python3 ./generate_series.py
   git add -A
   git commit -m "[SCOREBOARD] update"
   git push origin main
-  python3 ./generate_series.py
 else
   echo "No differences"
 fi
