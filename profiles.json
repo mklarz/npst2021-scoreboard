@@ -240,11 +240,6 @@
     "username": "Kvakk"
   },
   {
-    "id": "81532a76-0d53-49e5-937f-5a09cc25a206",
-    "updated_at": "2021-11-30T18:56:15.086437+00:00",
-    "username": "Løken"
-  },
-  {
     "id": "c387261b-432e-46e3-908d-2bc09e95ee30",
     "updated_at": "2021-11-30T13:38:04.273633+00:00",
     "username": "marrekanin"
@@ -4998,5 +4993,10 @@
     "id": "280e9807-28ea-43d4-8235-45ee88e5f33a",
     "updated_at": "2021-12-01T18:03:32.74729+00:00",
     "username": null
+  },
+  {
+    "id": "8555dd84-78b6-437c-9275-162de22cd565",
+    "updated_at": "2021-12-01T18:03:06.592984+00:00",
+    "username": "Hand of the king"
   }
 ]
