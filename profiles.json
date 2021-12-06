@@ -860,6 +860,11 @@
     "username": "romikob"
   },
   {
+    "id": "cf8dc6cf-dd84-4795-a809-b450324120d2",
+    "updated_at": "2021-12-01T01:07:00.310997+00:00",
+    "username": "glenn"
+  },
+  {
     "id": "1066facb-9d53-45e5-8f51-4c4480fad848",
     "updated_at": "2021-11-30T22:56:18.936857+00:00",
     "username": null
@@ -948,11 +953,6 @@
     "id": "3abda8cd-a655-434d-80a3-7403bfc5cb7c",
     "updated_at": "2021-12-01T00:42:05.542497+00:00",
     "username": "Null0"
-  },
-  {
-    "id": "cf8dc6cf-dd84-4795-a809-b450324120d2",
-    "updated_at": "2021-12-01T01:07:00.310997+00:00",
-    "username": "GlennD"
   },
   {
     "id": "4e802144-27e3-424a-9d76-58b063086550",
