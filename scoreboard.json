@@ -15,7 +15,7 @@
   },
   {
     "user_id": "dacde1a9-e065-4799-aebd-b26651cf9c42",
-    "username": "Kvakk",
+    "username": "decoy",
     "score": 60,
     "num_solves": 6,
     "latest_solve_time": "2021-12-07T18:30:44.502135+00:00"
@@ -126,6 +126,20 @@
     "latest_solve_time": "2021-12-07T20:19:55.182556+00:00"
   },
   {
+    "user_id": "b735b74c-cd07-4cd4-9486-f346bc903e78",
+    "username": "Røllik Münch",
+    "score": 60,
+    "num_solves": 6,
+    "latest_solve_time": "2021-12-07T20:22:11.215727+00:00"
+  },
+  {
+    "user_id": "9ed37aa0-37de-4a1a-b2c7-5652f46714db",
+    "username": "Arkanor",
+    "score": 60,
+    "num_solves": 6,
+    "latest_solve_time": "2021-12-07T20:26:04.402349+00:00"
+  },
+  {
     "user_id": "442f9e36-3d6f-4403-817b-d21db2b0468a",
     "username": "roys",
     "score": 50,
@@ -138,13 +152,6 @@
     "score": 50,
     "num_solves": 5,
     "latest_solve_time": "2021-12-05T17:03:04.045757+00:00"
-  },
-  {
-    "user_id": "9ed37aa0-37de-4a1a-b2c7-5652f46714db",
-    "username": "Arkanor",
-    "score": 50,
-    "num_solves": 5,
-    "latest_solve_time": "2021-12-05T17:04:24.889908+00:00"
   },
   {
     "user_id": "c387261b-432e-46e3-908d-2bc09e95ee30",
@@ -474,13 +481,6 @@
     "score": 50,
     "num_solves": 5,
     "latest_solve_time": "2021-12-05T18:57:00.04079+00:00"
-  },
-  {
-    "user_id": "b735b74c-cd07-4cd4-9486-f346bc903e78",
-    "username": "Røllik Münch",
-    "score": 50,
-    "num_solves": 5,
-    "latest_solve_time": "2021-12-05T18:57:15.460154+00:00"
   },
   {
     "user_id": "ab6d5b8e-1985-41fe-bce3-dbaa936b0b62",
@@ -2492,6 +2492,13 @@
     "latest_solve_time": "2021-12-07T19:47:37.76938+00:00"
   },
   {
+    "user_id": "3034dae2-8771-4f06-89fa-96458160d107",
+    "username": "Fagbrevet",
+    "score": 40,
+    "num_solves": 4,
+    "latest_solve_time": "2021-12-07T20:27:16.940574+00:00"
+  },
+  {
     "user_id": "aaa327b8-3236-4755-babb-30d65546e068",
     "username": "Wazzah                😎⭐ ",
     "score": 30,
@@ -3169,13 +3176,6 @@
     "score": 30,
     "num_solves": 3,
     "latest_solve_time": "2021-12-06T16:54:32.522622+00:00"
-  },
-  {
-    "user_id": "3034dae2-8771-4f06-89fa-96458160d107",
-    "username": "Fagbrevet",
-    "score": 30,
-    "num_solves": 3,
-    "latest_solve_time": "2021-12-06T17:11:55.959972+00:00"
   },
   {
     "user_id": "862f1eb7-ff9a-42d7-8cb8-e91227aabc43",
