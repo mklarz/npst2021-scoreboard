@@ -1883,6 +1883,20 @@
     "latest_solve_time": "2021-12-07T13:27:42.933604+00:00"
   },
   {
+    "user_id": "b616646d-1277-4e12-9f48-d68b2e117916",
+    "username": "Jernbanen",
+    "score": 50,
+    "num_solves": 5,
+    "latest_solve_time": "2021-12-07T14:15:32.366488+00:00"
+  },
+  {
+    "user_id": "9efe9a1d-83ed-48cd-aa29-532b194a1a13",
+    "username": "💥boomer",
+    "score": 50,
+    "num_solves": 5,
+    "latest_solve_time": "2021-12-07T14:50:42.082372+00:00"
+  },
+  {
     "user_id": "7bdd6ab8-dd4c-4c10-ae46-9ce13984dd9b",
     "username": "Earthround",
     "score": 40,
@@ -1930,13 +1944,6 @@
     "score": 40,
     "num_solves": 4,
     "latest_solve_time": "2021-12-04T19:05:00.329751+00:00"
-  },
-  {
-    "user_id": "b616646d-1277-4e12-9f48-d68b2e117916",
-    "username": "Jernbanen",
-    "score": 40,
-    "num_solves": 4,
-    "latest_solve_time": "2021-12-04T19:50:27.181408+00:00"
   },
   {
     "user_id": "b72b4a7c-7ccb-42c1-a5a5-8a29053d59fe",
@@ -2317,13 +2324,6 @@
     "latest_solve_time": "2021-12-07T04:50:57.880327+00:00"
   },
   {
-    "user_id": "9efe9a1d-83ed-48cd-aa29-532b194a1a13",
-    "username": "💥boomer",
-    "score": 40,
-    "num_solves": 4,
-    "latest_solve_time": "2021-12-07T08:11:17.151171+00:00"
-  },
-  {
     "user_id": "bc1ec2f6-ba8e-4c0c-bcf0-c124bba12712",
     "username": "Krølla",
     "score": 40,
@@ -2394,6 +2394,27 @@
     "latest_solve_time": "2021-12-07T13:59:38.967631+00:00"
   },
   {
+    "user_id": "1153b4eb-f653-4bd6-b526-825cad379a6d",
+    "username": "ninjasploit",
+    "score": 40,
+    "num_solves": 4,
+    "latest_solve_time": "2021-12-07T14:04:20.508015+00:00"
+  },
+  {
+    "user_id": "334349ce-409c-4143-bdad-687b04485ae6",
+    "username": "kameratsky",
+    "score": 40,
+    "num_solves": 4,
+    "latest_solve_time": "2021-12-07T14:06:15.353483+00:00"
+  },
+  {
+    "user_id": "385c9f4a-e6bb-44a4-bdd7-4ee3bd189c88",
+    "username": "thomasborgen",
+    "score": 40,
+    "num_solves": 4,
+    "latest_solve_time": "2021-12-07T14:14:39.00317+00:00"
+  },
+  {
     "user_id": "aaa327b8-3236-4755-babb-30d65546e068",
     "username": "Wazzah                😎⭐ ",
     "score": 30,
@@ -2420,13 +2441,6 @@
     "score": 30,
     "num_solves": 3,
     "latest_solve_time": "2021-12-03T18:12:07.650336+00:00"
-  },
-  {
-    "user_id": "1153b4eb-f653-4bd6-b526-825cad379a6d",
-    "username": "ninjasploit",
-    "score": 30,
-    "num_solves": 3,
-    "latest_solve_time": "2021-12-03T18:17:20.902946+00:00"
   },
   {
     "user_id": "660bba17-a9d6-4a57-8cdf-69683826e5f5",
@@ -3246,13 +3260,6 @@
     "score": 30,
     "num_solves": 3,
     "latest_solve_time": "2021-12-07T09:10:44.333671+00:00"
-  },
-  {
-    "user_id": "334349ce-409c-4143-bdad-687b04485ae6",
-    "username": "kameratsky",
-    "score": 30,
-    "num_solves": 3,
-    "latest_solve_time": "2021-12-07T10:53:24.234663+00:00"
   },
   {
     "user_id": "55197797-b2d2-4ed3-9081-997c85d77038",
@@ -4760,11 +4767,11 @@
     "latest_solve_time": "2021-12-07T13:35:27.577842+00:00"
   },
   {
-    "user_id": "385c9f4a-e6bb-44a4-bdd7-4ee3bd189c88",
-    "username": "thomasborgen",
+    "user_id": "0a962909-3473-47b5-ba63-dda40b2ba9db",
+    "username": "Trondis",
     "score": 20,
     "num_solves": 2,
-    "latest_solve_time": "2021-12-07T13:47:22.904328+00:00"
+    "latest_solve_time": "2021-12-07T14:20:36.05229+00:00"
   },
   {
     "user_id": "b1139496-398a-4f28-a16a-f6b1e824fe06",
@@ -6235,5 +6242,26 @@
     "score": 10,
     "num_solves": 1,
     "latest_solve_time": "2021-12-07T12:34:44.933964+00:00"
+  },
+  {
+    "user_id": "e2a55649-f5f8-4b31-984c-eb09bdbe2877",
+    "username": "innoman",
+    "score": 10,
+    "num_solves": 1,
+    "latest_solve_time": "2021-12-07T14:14:09.759581+00:00"
+  },
+  {
+    "user_id": "50fc6f24-b3ce-42a1-a3b7-7e1fa3c48804",
+    "username": "HallvardJC",
+    "score": 10,
+    "num_solves": 1,
+    "latest_solve_time": "2021-12-07T14:26:25.736723+00:00"
+  },
+  {
+    "user_id": "fb0f40d9-3861-4a60-ba68-ff174ca0fba8",
+    "username": "Godslayer",
+    "score": 10,
+    "num_solves": 1,
+    "latest_solve_time": "2021-12-07T14:52:09.10448+00:00"
   }
 ]
