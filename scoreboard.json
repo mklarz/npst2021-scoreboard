@@ -784,6 +784,13 @@
     "latest_solve_time": "2021-12-07T22:52:09.031456+00:00"
   },
   {
+    "user_id": "547e66ee-2395-4fe9-b62b-30662695655c",
+    "username": "DrS",
+    "score": 60,
+    "num_solves": 6,
+    "latest_solve_time": "2021-12-07T23:18:05.239007+00:00"
+  },
+  {
     "user_id": "442f9e36-3d6f-4403-817b-d21db2b0468a",
     "username": "roys",
     "score": 50,
@@ -1356,13 +1363,6 @@
     "score": 50,
     "num_solves": 5,
     "latest_solve_time": "2021-12-06T08:07:41.997165+00:00"
-  },
-  {
-    "user_id": "547e66ee-2395-4fe9-b62b-30662695655c",
-    "username": "DrS",
-    "score": 50,
-    "num_solves": 5,
-    "latest_solve_time": "2021-12-06T08:09:11.956993+00:00"
   },
   {
     "user_id": "d5a059d2-5d11-4688-a9bf-dab811af4e23",
