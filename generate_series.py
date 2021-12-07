@@ -19,6 +19,7 @@ last_scoreboard = None
 users = {}
 users_currently_maxed_count_series = []
 print("Parsing {} commits and creating series.json".format(len(commits)))
+last_users_currently_maxed_count = 0
 for commit in commits:
     commit_datetime = datetime.utcfromtimestamp(commit.committed_date).replace(tzinfo=timezone.utc)
     print("Parsing: {} - {}".format(commit.hexsha, commit_datetime))
@@ -32,11 +33,10 @@ for commit in commits:
 
     # Which day in the calendar are we on?
     current_advent_day = ((commit_datetime - START_DATETIME).days) + 1
-    # TODO: remove sundays
 
     max_possible_solves = current_advent_day
-    # Remove sundays
-    max_possible_solves -= current_advent_day // 7
+    # Remove mondays
+    max_possible_solves -= current_advent_day // 6
 
     last_scoreboard = scoreboard
     users_currently_maxed_count = 0
@@ -46,7 +46,7 @@ for commit in commits:
         user_id = scoreboard_user["user_id"]
         last_solve = scoreboard_user["latest_solve_time"]
 
-        if current_solves == max_possible_solves:
+        if current_solves >= max_possible_solves:
             users_currently_maxed_count += 1
 
         if user_id not in users:
@@ -69,6 +69,7 @@ for commit in commits:
         users[user_id] = user
     print("Users with max solves:", users_currently_maxed_count)
     users_currently_maxed_count_series.append([commit_datetime.isoformat(), users_currently_maxed_count])
+    last_users_currently_maxed_count = users_currently_maxed_count
 
 series = {
     "users": [],

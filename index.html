@@ -66,17 +66,55 @@ function addTopData(data) {
   });
 }
 function addMaxedData(data) {
-  console.log(data);
+  var newChallengeDaysData = [];
+  var noChallengeDaysData = [];
+  for (var d = new Date(Date.UTC(2021, 11, 1, 17)); d < new Date(Date.UTC(2021, 11, 31)); d.setDate(d.getDate() + 1)) {
+    var nextDate = new Date(d);
+    nextDate.setDate(nextDate.getDate() + 1);
+    if (d.getDay() == 1) {
+      noChallengeDaysData.push([
+        {
+          name: 'No new challenge',
+          xAxis: d.toISOString()
+        },
+        {
+          xAxis: nextDate.toISOString()
+        }
+      ])
+    } else {
+      // Monday
+      newChallengeDaysData.push([
+        {
+          // name: 'New challenge',
+          xAxis: d.toISOString(),
+          yAxis: 0
+        },
+        {
+          xAxis: d.toISOString(),
+          yAxis: 'max'
+        }
+      ])
+    }
+  }
+
   var chart = echarts.init(document.getElementById('maxedUsers'), 'dark');
   chart.setOption({
     title: {
       left: 'center',
-        text: `NPST2021 - Users maxed`
+        text: `NPST2021 - Users Maxed`
     },
     tooltip: {
       order: 'valueDesc',
       trigger: 'axis'
     },
+    dataZoom: [
+      {
+        type: 'inside'
+      },
+      {
+        type: 'slider'
+      }
+    ],
     toolbox: {
       feature: {
         saveAsImage: {}
@@ -93,7 +131,21 @@ function addMaxedData(data) {
       name: 'Users maxed',
       type: 'line',
       showSymbol: false,
-      data: data
+      data: data,
+      markLine: {
+        symbol: ['none', 'none'],
+        lineStyle: {
+          color: 'rgba(255, 255, 255, 0.3)'
+        },
+        animation: false,
+        data: newChallengeDaysData
+      },
+      markArea: {
+        itemStyle: {
+          color: 'rgba(73, 146, 255, 0.1)'
+        },
+        data: noChallengeDaysData
+      }
     }]
   });
 }
