@@ -16,7 +16,7 @@ html, body {
   padding-top: 20px;
 }
 #maxedUsers {
-  padding-top: 100px;
+  padding-top: 50px;
 }
 </style>
 </head>
@@ -101,11 +101,26 @@ function addMaxedData(data) {
   chart.setOption({
     title: {
       left: 'center',
-        text: `NPST2021 - Users Maxed`
+        text: 'NPST2021 - Users Maxed'
     },
     tooltip: {
       order: 'valueDesc',
-      trigger: 'axis'
+      trigger: 'axis',
+      axisPointer: {
+        show: true,
+        type: 'cross',
+        label: {
+          formatter: function (params) {
+            var label = "";
+            if (params.axisDimension == "y") {
+                label = Math.floor(params.value);
+            } else {
+              label = echarts.format.formatTime("yyyy-MM-dd hh:mm:ss", params.value);
+            }
+            return label;
+          }
+        }
+      }
     },
     dataZoom: [
       {
@@ -125,7 +140,7 @@ function addMaxedData(data) {
     },
     yAxis: {
       type: 'value',
-      name: 'users'
+      name: 'users',
     },
     series: [{
       name: 'Users maxed',
