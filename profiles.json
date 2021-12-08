@@ -490,11 +490,6 @@
     "username": "smorgrav"
   },
   {
-    "id": "cab7cedc-06ff-487e-8fa7-34f25a22fa13",
-    "updated_at": "2021-11-30T17:38:41.512236+00:00",
-    "username": "Jesusbarnet"
-  },
-  {
     "id": "77a49545-659f-4641-abd8-e8f8771b6e61",
     "updated_at": "2021-11-30T17:39:16.579172+00:00",
     "username": "Marky_Mark"
@@ -4998,5 +4993,10 @@
     "id": "1251627e-e2b7-4d61-b43a-6a310a500e30",
     "updated_at": "2021-12-01T18:06:26.524871+00:00",
     "username": "Løva"
+  },
+  {
+    "id": "46ccc285-039e-4d31-b4bb-28f76e61aef9",
+    "updated_at": "2021-12-01T18:07:14.950039+00:00",
+    "username": null
   }
 ]
