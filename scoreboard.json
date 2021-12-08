@@ -1099,11 +1099,39 @@
     "latest_solve_time": "2021-12-08T10:40:09.080299+00:00"
   },
   {
+    "user_id": "883a578e-640e-4fbb-a891-109f5aca665e",
+    "username": "k3vin",
+    "score": 60,
+    "num_solves": 6,
+    "latest_solve_time": "2021-12-08T10:48:58.99535+00:00"
+  },
+  {
+    "user_id": "b843e761-7282-4aea-8828-b145179ae238",
+    "username": "hakons1",
+    "score": 60,
+    "num_solves": 6,
+    "latest_solve_time": "2021-12-08T10:51:52.306733+00:00"
+  },
+  {
     "user_id": "fb9290af-f484-479a-bb60-8949fba716dc",
     "username": "🐋 Валдимир",
-    "score": 50,
-    "num_solves": 5,
-    "latest_solve_time": "2021-12-05T17:03:04.045757+00:00"
+    "score": 60,
+    "num_solves": 6,
+    "latest_solve_time": "2021-12-08T10:51:53.002827+00:00"
+  },
+  {
+    "user_id": "ad1e8ee0-99e2-433e-b2d8-cfd342cef0de",
+    "username": "Kjell T. Ringen",
+    "score": 60,
+    "num_solves": 6,
+    "latest_solve_time": "2021-12-08T10:56:14.784626+00:00"
+  },
+  {
+    "user_id": "d0a38176-2512-4890-ba41-c75781eec969",
+    "username": "AccrualsforGifts",
+    "score": 60,
+    "num_solves": 6,
+    "latest_solve_time": "2021-12-08T11:00:01.787698+00:00"
   },
   {
     "user_id": "c387261b-432e-46e3-908d-2bc09e95ee30",
@@ -1393,13 +1421,6 @@
     "latest_solve_time": "2021-12-05T20:35:03.868293+00:00"
   },
   {
-    "user_id": "b843e761-7282-4aea-8828-b145179ae238",
-    "username": "hakons1",
-    "score": 50,
-    "num_solves": 5,
-    "latest_solve_time": "2021-12-05T20:42:37.085512+00:00"
-  },
-  {
     "user_id": "1bb76cf9-c0c4-4a48-b05e-f8837f365e64",
     "username": "Robertz25",
     "score": 50,
@@ -1601,13 +1622,6 @@
     "score": 50,
     "num_solves": 5,
     "latest_solve_time": "2021-12-06T10:41:06.195287+00:00"
-  },
-  {
-    "user_id": "883a578e-640e-4fbb-a891-109f5aca665e",
-    "username": "k3vin",
-    "score": 50,
-    "num_solves": 5,
-    "latest_solve_time": "2021-12-06T11:19:02.193096+00:00"
   },
   {
     "user_id": "edad2313-d640-4045-a47b-5bdbf79aeaae",
@@ -2063,20 +2077,6 @@
     "score": 50,
     "num_solves": 5,
     "latest_solve_time": "2021-12-08T09:03:30.182917+00:00"
-  },
-  {
-    "user_id": "ad1e8ee0-99e2-433e-b2d8-cfd342cef0de",
-    "username": "Kjell T. Ringen",
-    "score": 50,
-    "num_solves": 5,
-    "latest_solve_time": "2021-12-08T09:03:37.709334+00:00"
-  },
-  {
-    "user_id": "d0a38176-2512-4890-ba41-c75781eec969",
-    "username": "AccrualsforGifts",
-    "score": 50,
-    "num_solves": 5,
-    "latest_solve_time": "2021-12-08T09:29:28.760983+00:00"
   },
   {
     "user_id": "bc1ec2f6-ba8e-4c0c-bcf0-c124bba12712",
