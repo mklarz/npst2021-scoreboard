@@ -14,6 +14,13 @@
     "latest_solve_time": "2021-12-10T09:45:28.537319+00:00"
   },
   {
+    "user_id": "78520591-8fa0-4104-b1c2-6cdf73d13e5a",
+    "username": "SharpsyD",
+    "score": 81,
+    "num_solves": 9,
+    "latest_solve_time": "2021-12-10T13:44:31.942219+00:00"
+  },
+  {
     "user_id": "0037f2c1-dfb4-4e86-b5f5-be97a3ed70a8",
     "username": "ciphr",
     "score": 80,
@@ -217,18 +224,18 @@
     "latest_solve_time": "2021-12-10T02:06:13.159921+00:00"
   },
   {
-    "user_id": "78520591-8fa0-4104-b1c2-6cdf73d13e5a",
-    "username": "SharpsyD",
-    "score": 80,
-    "num_solves": 8,
-    "latest_solve_time": "2021-12-10T02:15:07.83212+00:00"
-  },
-  {
     "user_id": "519eab8a-178e-4b9b-84f5-d76a6107f38b",
     "username": "phena",
     "score": 80,
     "num_solves": 8,
     "latest_solve_time": "2021-12-10T11:43:42.20309+00:00"
+  },
+  {
+    "user_id": "9ebfaa40-3ef4-40c4-bc15-bbcfb8be7ef2",
+    "username": "strawberrycake",
+    "score": 80,
+    "num_solves": 8,
+    "latest_solve_time": "2021-12-10T13:34:36.436488+00:00"
   },
   {
     "user_id": "87f28469-5c94-4a7a-b9d1-d8cf8ad5749e",
@@ -306,13 +313,6 @@
     "score": 70,
     "num_solves": 7,
     "latest_solve_time": "2021-12-09T14:24:17.150539+00:00"
-  },
-  {
-    "user_id": "9ebfaa40-3ef4-40c4-bc15-bbcfb8be7ef2",
-    "username": "strawberrycake",
-    "score": 70,
-    "num_solves": 7,
-    "latest_solve_time": "2021-12-09T14:34:29.19757+00:00"
   },
   {
     "user_id": "933bd211-c763-4292-aced-372205277192",
@@ -1764,6 +1764,13 @@
     "latest_solve_time": "2021-12-10T12:36:05.162664+00:00"
   },
   {
+    "user_id": "acd9cdf8-4900-47bb-a8e0-bf75b8392174",
+    "username": "Pen Gwyn",
+    "score": 60,
+    "num_solves": 6,
+    "latest_solve_time": "2021-12-10T13:44:57.925354+00:00"
+  },
+  {
     "user_id": "0edb1555-0e25-4a36-aa96-db71589e48f1",
     "username": "enfo 👈",
     "score": 50,
@@ -1937,13 +1944,6 @@
     "score": 50,
     "num_solves": 5,
     "latest_solve_time": "2021-12-06T08:25:53.465742+00:00"
-  },
-  {
-    "user_id": "acd9cdf8-4900-47bb-a8e0-bf75b8392174",
-    "username": "Pen Gwyn",
-    "score": 50,
-    "num_solves": 5,
-    "latest_solve_time": "2021-12-06T08:35:32.298853+00:00"
   },
   {
     "user_id": "9e4a54b1-ee28-46e9-b4b1-6fd57feb83dc",
