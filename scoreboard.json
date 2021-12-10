@@ -539,6 +539,20 @@
     "latest_solve_time": "2021-12-10T11:24:53.143402+00:00"
   },
   {
+    "user_id": "174e4986-10e9-4d26-8035-8e3d62dd61d3",
+    "username": "martin",
+    "score": 70,
+    "num_solves": 7,
+    "latest_solve_time": "2021-12-10T11:50:16.84243+00:00"
+  },
+  {
+    "user_id": "a1283a0d-11aa-4cf5-89a9-615f9ec1e059",
+    "username": "tDelDel",
+    "score": 70,
+    "num_solves": 7,
+    "latest_solve_time": "2021-12-10T11:51:07.262283+00:00"
+  },
+  {
     "user_id": "57e0ccf5-7d81-489d-851b-24b02c93299f",
     "username": "Torolebole",
     "score": 60,
@@ -614,13 +628,6 @@
     "score": 60,
     "num_solves": 6,
     "latest_solve_time": "2021-12-07T20:50:09.416114+00:00"
-  },
-  {
-    "user_id": "174e4986-10e9-4d26-8035-8e3d62dd61d3",
-    "username": "martin",
-    "score": 60,
-    "num_solves": 6,
-    "latest_solve_time": "2021-12-07T20:54:20.803536+00:00"
   },
   {
     "user_id": "e9e620d8-324f-4793-ae52-2ca7b42806d3",
@@ -719,13 +726,6 @@
     "score": 60,
     "num_solves": 6,
     "latest_solve_time": "2021-12-07T21:20:21.862259+00:00"
-  },
-  {
-    "user_id": "a1283a0d-11aa-4cf5-89a9-615f9ec1e059",
-    "username": "tDelDel",
-    "score": 60,
-    "num_solves": 6,
-    "latest_solve_time": "2021-12-07T21:21:52.387173+00:00"
   },
   {
     "user_id": "ab6d5b8e-1985-41fe-bce3-dbaa936b0b62",
@@ -5061,6 +5061,13 @@
     "latest_solve_time": "2021-12-10T11:15:42.193964+00:00"
   },
   {
+    "user_id": "6528b05c-43cc-4f68-a466-8f9d8f5b2677",
+    "username": "EiriGuld",
+    "score": 20,
+    "num_solves": 2,
+    "latest_solve_time": "2021-12-10T11:52:58.308832+00:00"
+  },
+  {
     "user_id": "291b7aaf-8344-421d-8f1e-0c4c9d7cdebf",
     "username": "SnikeFisk",
     "score": 11,
@@ -6592,13 +6599,6 @@
     "score": 10,
     "num_solves": 1,
     "latest_solve_time": "2021-12-09T20:50:03.950137+00:00"
-  },
-  {
-    "user_id": "6528b05c-43cc-4f68-a466-8f9d8f5b2677",
-    "username": "EiriGuld",
-    "score": 10,
-    "num_solves": 1,
-    "latest_solve_time": "2021-12-09T21:56:09.453079+00:00"
   },
   {
     "user_id": "06d0f58c-da66-4c05-8003-25963d91fa02",
