@@ -2275,6 +2275,13 @@
     "latest_solve_time": "2021-12-09T20:07:13.708224+00:00"
   },
   {
+    "user_id": "ad00a5aa-ce06-4129-970f-1dad8df9872b",
+    "username": "OnWheels",
+    "score": 50,
+    "num_solves": 5,
+    "latest_solve_time": "2021-12-10T10:57:19.088073+00:00"
+  },
+  {
     "user_id": "7bdd6ab8-dd4c-4c10-ae46-9ce13984dd9b",
     "username": "Earthround",
     "score": 40,
@@ -2371,13 +2378,6 @@
     "score": 40,
     "num_solves": 4,
     "latest_solve_time": "2021-12-06T06:06:39.204013+00:00"
-  },
-  {
-    "user_id": "ad00a5aa-ce06-4129-970f-1dad8df9872b",
-    "username": "OnWheels",
-    "score": 40,
-    "num_solves": 4,
-    "latest_solve_time": "2021-12-06T07:01:28.371991+00:00"
   },
   {
     "user_id": "e576fa69-4add-48bb-bab2-a3dc59132004",
