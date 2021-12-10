@@ -3039,7 +3039,7 @@
   },
   {
     "user_id": "abe4dd06-c23e-43cd-81a2-e1a266f5c0cb",
-    "username": "Mr Robot",
+    "username": "﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽",
     "score": 30,
     "num_solves": 3,
     "latest_solve_time": "2021-12-05T13:57:34.292118+00:00"
@@ -3554,6 +3554,13 @@
     "score": 30,
     "num_solves": 3,
     "latest_solve_time": "2021-12-10T10:34:04.924033+00:00"
+  },
+  {
+    "user_id": "72337156-83c2-4169-aab2-ab1b5178e21e",
+    "username": "Mir0",
+    "score": 30,
+    "num_solves": 3,
+    "latest_solve_time": "2021-12-10T12:17:08.92219+00:00"
   },
   {
     "user_id": "1717e0db-01a8-43d8-9c31-85e201c5defa",
@@ -5024,13 +5031,6 @@
     "score": 20,
     "num_solves": 2,
     "latest_solve_time": "2021-12-09T23:13:46.301767+00:00"
-  },
-  {
-    "user_id": "72337156-83c2-4169-aab2-ab1b5178e21e",
-    "username": "Mir0",
-    "score": 20,
-    "num_solves": 2,
-    "latest_solve_time": "2021-12-10T00:18:24.716076+00:00"
   },
   {
     "user_id": "0862e948-6572-4986-96b3-a5abaaeede19",
