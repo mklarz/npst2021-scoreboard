@@ -205,11 +205,6 @@
     "username": "SnillGutt08"
   },
   {
-    "id": "9ed37aa0-37de-4a1a-b2c7-5652f46714db",
-    "updated_at": "2021-11-30T13:11:41.143799+00:00",
-    "username": "Arkanor"
-  },
-  {
     "id": "a5f4660b-b6e3-4d27-be97-1b1fe9e95cb2",
     "updated_at": "2021-12-02T18:59:45.152621+00:00",
     "username": "gist"
@@ -313,6 +308,11 @@
     "id": "92fcfb67-10a5-406f-bdb7-89350cd28683",
     "updated_at": "2021-11-30T17:01:50.816528+00:00",
     "username": "norz"
+  },
+  {
+    "id": "9ed37aa0-37de-4a1a-b2c7-5652f46714db",
+    "updated_at": "2021-11-30T13:11:41.143799+00:00",
+    "username": "Arkanor"
   },
   {
     "id": "b90031c8-e714-46f1-9be2-79314c35ec62",
