@@ -895,6 +895,11 @@
     "username": "Kristoffer"
   },
   {
+    "id": "9d9db09f-2ad6-4395-87b5-69bb3c5011c0",
+    "updated_at": "2021-12-01T07:12:13.879535+00:00",
+    "username": "h3rl"
+  },
+  {
     "id": "efec69ef-f493-4094-b547-18f466c977d6",
     "updated_at": "2021-11-30T23:13:30.925569+00:00",
     "username": "SlalomKvark"
@@ -1198,11 +1203,6 @@
     "id": "2c74c8d6-189a-4ead-8e1f-ebf2944fda8c",
     "updated_at": "2021-12-01T07:13:44.211535+00:00",
     "username": null
-  },
-  {
-    "id": "9d9db09f-2ad6-4395-87b5-69bb3c5011c0",
-    "updated_at": "2021-12-01T07:12:13.879535+00:00",
-    "username": "H3rl"
   },
   {
     "id": "96411ad6-6c53-4e73-b0cb-da034931af3e",
