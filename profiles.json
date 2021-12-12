@@ -325,11 +325,6 @@
     "username": "Vinkel"
   },
   {
-    "id": "87f28469-5c94-4a7a-b9d1-d8cf8ad5749e",
-    "updated_at": "2021-11-30T14:25:03.461357+00:00",
-    "username": "zup"
-  },
-  {
     "id": "0037f2c1-dfb4-4e86-b5f5-be97a3ed70a8",
     "updated_at": "2021-11-30T13:11:57.45209+00:00",
     "username": "ciphr"
@@ -378,6 +373,11 @@
     "id": "78520591-8fa0-4104-b1c2-6cdf73d13e5a",
     "updated_at": "2021-11-30T17:03:04.951644+00:00",
     "username": "🐱‍💻SharpsyD"
+  },
+  {
+    "id": "87f28469-5c94-4a7a-b9d1-d8cf8ad5749e",
+    "updated_at": "2021-11-30T14:25:03.461357+00:00",
+    "username": "⚡zup"
   },
   {
     "id": "dbcce91f-a339-4fa1-b7b0-e3b203f64e10",
