@@ -483,6 +483,20 @@
     "latest_solve_time": "2021-12-12T20:41:29.941201+00:00"
   },
   {
+    "user_id": "442f9e36-3d6f-4403-817b-d21db2b0468a",
+    "username": "roys",
+    "score": 92,
+    "num_solves": 11,
+    "latest_solve_time": "2021-12-12T22:17:09.697029+00:00"
+  },
+  {
+    "user_id": "537b69cd-917d-49fe-9943-dbef9d80aa51",
+    "username": "Simenwm",
+    "score": 92,
+    "num_solves": 11,
+    "latest_solve_time": "2021-12-12T22:25:12.646819+00:00"
+  },
+  {
     "user_id": "996c00cf-ebeb-4b46-b420-3823b8b82ce9",
     "username": "Heleneeee⭐ ",
     "score": 91,
@@ -546,13 +560,6 @@
     "latest_solve_time": "2021-12-12T19:18:16.084336+00:00"
   },
   {
-    "user_id": "537b69cd-917d-49fe-9943-dbef9d80aa51",
-    "username": "Simenwm",
-    "score": 91,
-    "num_solves": 10,
-    "latest_solve_time": "2021-12-12T19:38:01.248493+00:00"
-  },
-  {
     "user_id": "a1283a0d-11aa-4cf5-89a9-615f9ec1e059",
     "username": "tDelDel",
     "score": 91,
@@ -607,13 +614,6 @@
     "score": 82,
     "num_solves": 10,
     "latest_solve_time": "2021-12-12T21:54:34.227821+00:00"
-  },
-  {
-    "user_id": "442f9e36-3d6f-4403-817b-d21db2b0468a",
-    "username": "roys",
-    "score": 82,
-    "num_solves": 10,
-    "latest_solve_time": "2021-12-12T21:59:06.916136+00:00"
   },
   {
     "user_id": "7d97409e-cffa-4620-bdd0-a1d5ba4b2382",
@@ -803,6 +803,13 @@
     "score": 80,
     "num_solves": 8,
     "latest_solve_time": "2021-12-12T20:26:12.470088+00:00"
+  },
+  {
+    "user_id": "87aa3beb-9ea7-4e31-a988-c66af968de61",
+    "username": "TrossAlt",
+    "score": 80,
+    "num_solves": 8,
+    "latest_solve_time": "2021-12-12T22:27:12.965572+00:00"
   },
   {
     "user_id": "6528b05c-43cc-4f68-a466-8f9d8f5b2677",
@@ -1090,13 +1097,6 @@
     "score": 70,
     "num_solves": 7,
     "latest_solve_time": "2021-12-12T14:26:58.565945+00:00"
-  },
-  {
-    "user_id": "87aa3beb-9ea7-4e31-a988-c66af968de61",
-    "username": "TrossAlt",
-    "score": 70,
-    "num_solves": 7,
-    "latest_solve_time": "2021-12-12T17:17:42.68888+00:00"
   },
   {
     "user_id": "122dfe09-9493-456f-b95c-62728ddcfe9e",
