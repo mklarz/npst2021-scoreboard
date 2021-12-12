@@ -329,6 +329,13 @@
     "latest_solve_time": "2021-12-12T15:18:04.05162+00:00"
   },
   {
+    "user_id": "933bd211-c763-4292-aced-372205277192",
+    "username": "brukernavn1",
+    "score": 100,
+    "num_solves": 10,
+    "latest_solve_time": "2021-12-12T16:18:29.775288+00:00"
+  },
+  {
     "user_id": "996c00cf-ebeb-4b46-b420-3823b8b82ce9",
     "username": "Heleneeee⭐ ",
     "score": 91,
@@ -509,13 +516,6 @@
     "score": 90,
     "num_solves": 9,
     "latest_solve_time": "2021-12-12T13:37:11.986023+00:00"
-  },
-  {
-    "user_id": "933bd211-c763-4292-aced-372205277192",
-    "username": "brukernavn1",
-    "score": 90,
-    "num_solves": 9,
-    "latest_solve_time": "2021-12-12T13:38:28.15948+00:00"
   },
   {
     "user_id": "a0f9b296-637d-439d-94e9-61a968834386",
@@ -803,6 +803,13 @@
     "score": 71,
     "num_solves": 8,
     "latest_solve_time": "2021-12-12T09:51:52.555494+00:00"
+  },
+  {
+    "user_id": "b1f752fd-661f-461a-ac63-1d2290931afa",
+    "username": "nestrAta",
+    "score": 71,
+    "num_solves": 8,
+    "latest_solve_time": "2021-12-12T16:26:03.329429+00:00"
   },
   {
     "user_id": "86987711-9bc8-4548-b853-d542d443e497",
@@ -1125,13 +1132,6 @@
     "score": 61,
     "num_solves": 7,
     "latest_solve_time": "2021-12-11T23:00:33.537034+00:00"
-  },
-  {
-    "user_id": "b1f752fd-661f-461a-ac63-1d2290931afa",
-    "username": "nestrAta",
-    "score": 61,
-    "num_solves": 7,
-    "latest_solve_time": "2021-12-12T10:46:59.68531+00:00"
   },
   {
     "user_id": "862f1eb7-ff9a-42d7-8cb8-e91227aabc43",
@@ -2387,6 +2387,13 @@
     "latest_solve_time": "2021-12-12T15:53:00.830344+00:00"
   },
   {
+    "user_id": "28452f76-e324-4955-b375-40013926ad59",
+    "username": "domaje",
+    "score": 50,
+    "num_solves": 5,
+    "latest_solve_time": "2021-12-12T16:27:27.338699+00:00"
+  },
+  {
     "user_id": "72337156-83c2-4169-aab2-ab1b5178e21e",
     "username": "Mir0",
     "score": 41,
@@ -2784,13 +2791,6 @@
     "score": 40,
     "num_solves": 4,
     "latest_solve_time": "2021-12-10T19:23:55.024374+00:00"
-  },
-  {
-    "user_id": "28452f76-e324-4955-b375-40013926ad59",
-    "username": "domaje",
-    "score": 40,
-    "num_solves": 4,
-    "latest_solve_time": "2021-12-10T19:35:59.710677+00:00"
   },
   {
     "user_id": "6709ec5d-ebd4-4a59-912d-4c6b87401e21",
