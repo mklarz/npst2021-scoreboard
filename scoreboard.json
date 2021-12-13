@@ -338,9 +338,9 @@
   {
     "user_id": "0e63a814-7915-46b1-932a-f3001c4fd9d8",
     "username": "Vattnisse",
-    "score": 111,
-    "num_solves": 12,
-    "latest_solve_time": "2021-12-12T21:53:23.144783+00:00"
+    "score": 112,
+    "num_solves": 13,
+    "latest_solve_time": "2021-12-13T18:07:43.230443+00:00"
   },
   {
     "user_id": "933bd211-c763-4292-aced-372205277192",
@@ -1197,6 +1197,13 @@
     "latest_solve_time": "2021-12-13T17:05:59.439332+00:00"
   },
   {
+    "user_id": "9e4a54b1-ee28-46e9-b4b1-6fd57feb83dc",
+    "username": "Brukernavn",
+    "score": 62,
+    "num_solves": 8,
+    "latest_solve_time": "2021-12-13T18:12:49.098488+00:00"
+  },
+  {
     "user_id": "9c2432e1-6947-4868-948c-0ae8aeb0b2cd",
     "username": "ZinoX",
     "score": 61,
@@ -2028,13 +2035,6 @@
     "score": 51,
     "num_solves": 6,
     "latest_solve_time": "2021-12-12T18:56:04.746432+00:00"
-  },
-  {
-    "user_id": "9e4a54b1-ee28-46e9-b4b1-6fd57feb83dc",
-    "username": "Brukernavn",
-    "score": 51,
-    "num_solves": 6,
-    "latest_solve_time": "2021-12-13T17:08:08.027779+00:00"
   },
   {
     "user_id": "20a8239a-64ed-41ac-ad94-8f5f2cfbbfa8",
