@@ -1975,11 +1975,6 @@
     "username": "siraune"
   },
   {
-    "id": "b1001360-2be8-4380-b13e-61f2f4a2c2d2",
-    "updated_at": "2021-12-14T09:54:28.379342+00:00",
-    "username": null
-  },
-  {
     "id": "b3ca8ad4-6caa-437b-b002-6e93be3f43d8",
     "updated_at": "2021-12-01T07:58:12.122256+00:00",
     "username": null
@@ -2053,6 +2048,11 @@
     "id": "6a70e14f-2b09-4386-9f32-5b7640f160dd",
     "updated_at": "2021-12-01T08:06:15.250335+00:00",
     "username": "SomeTacoTaco"
+  },
+  {
+    "id": "b1001360-2be8-4380-b13e-61f2f4a2c2d2",
+    "updated_at": "2021-12-14T09:54:28.379342+00:00",
+    "username": "HoHoHoo"
   },
   {
     "id": "b44a03c7-cbf9-4690-b4a3-17e0cb0b6fa3",
@@ -3335,6 +3335,11 @@
     "username": "kvisle"
   },
   {
+    "id": "a668c8a5-1f9c-42e3-b7b6-fc1c91280c10",
+    "updated_at": "2021-12-14T10:03:40.532774+00:00",
+    "username": null
+  },
+  {
     "id": "eed6d93b-5333-4417-be40-fb8d236d53d1",
     "updated_at": "2021-12-01T16:37:00.373627+00:00",
     "username": "Suze"
@@ -4450,6 +4455,11 @@
     "username": "Mikki"
   },
   {
+    "id": "1bbdb08a-8f29-44d7-8ae1-d2da34a6fad7",
+    "updated_at": "2021-12-14T10:05:49.980777+00:00",
+    "username": null
+  },
+  {
     "id": "c3e65e00-8fe3-4c61-a4a1-b54a3c42b8eb",
     "updated_at": "2021-12-01T13:06:14.234783+00:00",
     "username": "StianS"
@@ -4547,6 +4557,11 @@
   {
     "id": "425e0a49-1d99-4577-bed5-6d766f816165",
     "updated_at": "2021-12-01T14:45:19.428271+00:00",
+    "username": null
+  },
+  {
+    "id": "7d9db4d8-b79b-422d-a8f9-cdddf755bec5",
+    "updated_at": "2021-12-14T10:06:51.347805+00:00",
     "username": null
   },
   {
@@ -4983,20 +4998,5 @@
     "id": "280e9807-28ea-43d4-8235-45ee88e5f33a",
     "updated_at": "2021-12-01T18:03:32.74729+00:00",
     "username": null
-  },
-  {
-    "id": "8555dd84-78b6-437c-9275-162de22cd565",
-    "updated_at": "2021-12-01T18:03:06.592984+00:00",
-    "username": "Hand of the king"
-  },
-  {
-    "id": "7e163ed0-2453-47e2-9e3f-ebeff4cdfd3d",
-    "updated_at": "2021-12-01T18:04:29.384562+00:00",
-    "username": "Cinaed"
-  },
-  {
-    "id": "1251627e-e2b7-4d61-b43a-6a310a500e30",
-    "updated_at": "2021-12-01T18:06:26.524871+00:00",
-    "username": "Løva"
   }
 ]
