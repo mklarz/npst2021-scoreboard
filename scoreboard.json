@@ -6965,6 +6965,13 @@
     "latest_solve_time": "2021-12-13T23:36:06.344456+00:00"
   },
   {
+    "user_id": "5e958086-cf7c-4658-95be-4c60e5de6737",
+    "username": "haugemats",
+    "score": 10,
+    "num_solves": 1,
+    "latest_solve_time": "2021-12-14T09:51:16.428409+00:00"
+  },
+  {
     "user_id": "ab238870-d2cd-40d7-b14b-4f7bfe0067aa",
     "username": "Sisteplass",
     "score": 1,
@@ -6991,12 +6998,5 @@
     "score": 1,
     "num_solves": 1,
     "latest_solve_time": "2021-12-10T20:54:00.007789+00:00"
-  },
-  {
-    "user_id": "ba56438c-c941-4ad2-a388-2f16a8a23e4e",
-    "username": "hehebanan",
-    "score": 1,
-    "num_solves": 1,
-    "latest_solve_time": "2021-12-10T22:33:10.223969+00:00"
   }
 ]
