@@ -1,5 +1,12 @@
 [
   {
+    "user_id": "b7d4c90c-008b-46b1-ac76-3c9ac739b4be",
+    "username": "Joey",
+    "score": 133,
+    "num_solves": 16,
+    "latest_solve_time": "2021-12-15T17:08:11.329377+00:00"
+  },
+  {
     "user_id": "635ec1de-8987-4d5f-bf33-86e6dee9e41c",
     "username": "unblvr",
     "score": 124,
@@ -40,13 +47,6 @@
     "score": 123,
     "num_solves": 15,
     "latest_solve_time": "2021-12-14T17:47:08.267223+00:00"
-  },
-  {
-    "user_id": "b7d4c90c-008b-46b1-ac76-3c9ac739b4be",
-    "username": "Joey",
-    "score": 123,
-    "num_solves": 15,
-    "latest_solve_time": "2021-12-14T18:00:43.880829+00:00"
   },
   {
     "user_id": "78520591-8fa0-4104-b1c2-6cdf73d13e5a",
@@ -581,6 +581,13 @@
     "latest_solve_time": "2021-12-15T15:17:33.084773+00:00"
   },
   {
+    "user_id": "29ea7c35-3964-42eb-856d-f97a3f635b71",
+    "username": "NootNoot",
+    "score": 102,
+    "num_solves": 12,
+    "latest_solve_time": "2021-12-15T17:01:36.882623+00:00"
+  },
+  {
     "user_id": "78cb03b7-cd2b-46ed-af79-01a25454d0a3",
     "username": "Scalpel🍷🎅",
     "score": 101,
@@ -656,13 +663,6 @@
     "score": 101,
     "num_solves": 11,
     "latest_solve_time": "2021-12-14T23:40:41.869759+00:00"
-  },
-  {
-    "user_id": "29ea7c35-3964-42eb-856d-f97a3f635b71",
-    "username": "NootNoot",
-    "score": 101,
-    "num_solves": 11,
-    "latest_solve_time": "2021-12-15T09:00:30.046968+00:00"
   },
   {
     "user_id": "9063fe6e-d7f5-441c-9783-fd0ecbe6e5db",
@@ -882,6 +882,13 @@
     "latest_solve_time": "2021-12-13T12:45:08.003942+00:00"
   },
   {
+    "user_id": "4ffb2001-0c34-4b98-8151-49b38f27cc08",
+    "username": "jobrajac",
+    "score": 81,
+    "num_solves": 9,
+    "latest_solve_time": "2021-12-15T17:00:22.487401+00:00"
+  },
+  {
     "user_id": "ae036c82-c888-4ba9-b007-de3109baf660",
     "username": "0xRiceM0nkey",
     "score": 80,
@@ -1034,13 +1041,6 @@
     "score": 71,
     "num_solves": 8,
     "latest_solve_time": "2021-12-14T22:05:30.211684+00:00"
-  },
-  {
-    "user_id": "4ffb2001-0c34-4b98-8151-49b38f27cc08",
-    "username": "jobrajac",
-    "score": 71,
-    "num_solves": 8,
-    "latest_solve_time": "2021-12-15T13:17:02.166896+00:00"
   },
   {
     "user_id": "804d9cac-35c9-4b26-b45c-9a16cb5cd575",
