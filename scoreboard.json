@@ -819,6 +819,13 @@
     "latest_solve_time": "2021-12-14T21:37:09.76287+00:00"
   },
   {
+    "user_id": "9e4a54b1-ee28-46e9-b4b1-6fd57feb83dc",
+    "username": "Brukernavn",
+    "score": 82,
+    "num_solves": 10,
+    "latest_solve_time": "2021-12-15T11:25:10.48097+00:00"
+  },
+  {
     "user_id": "7d97409e-cffa-4620-bdd0-a1d5ba4b2382",
     "username": "player1",
     "score": 81,
@@ -929,13 +936,6 @@
     "score": 80,
     "num_solves": 8,
     "latest_solve_time": "2021-12-15T01:18:17.011479+00:00"
-  },
-  {
-    "user_id": "9e4a54b1-ee28-46e9-b4b1-6fd57feb83dc",
-    "username": "Brukernavn",
-    "score": 72,
-    "num_solves": 9,
-    "latest_solve_time": "2021-12-14T00:11:33.9985+00:00"
   },
   {
     "user_id": "4ca91829-f8bf-47ca-84e4-a6227d488a47",
