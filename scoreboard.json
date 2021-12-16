@@ -182,6 +182,13 @@
     "latest_solve_time": "2021-12-16T06:59:24.931954+00:00"
   },
   {
+    "user_id": "9714a319-b475-4b0b-967c-37e81fe4ca2d",
+    "username": "lwollan",
+    "score": 133,
+    "num_solves": 16,
+    "latest_solve_time": "2021-12-16T09:10:39.890823+00:00"
+  },
+  {
     "user_id": "1a21378d-7730-4540-b021-8d7a85fee668",
     "username": "Telenor-Scoop",
     "score": 132,
@@ -334,13 +341,6 @@
     "score": 124,
     "num_solves": 16,
     "latest_solve_time": "2021-12-15T09:55:40.769206+00:00"
-  },
-  {
-    "user_id": "9714a319-b475-4b0b-967c-37e81fe4ca2d",
-    "username": "lwollan",
-    "score": 123,
-    "num_solves": 15,
-    "latest_solve_time": "2021-12-14T21:27:17.928362+00:00"
   },
   {
     "user_id": "d25b111a-8582-4b01-8a81-0eadc40e5535",
@@ -791,6 +791,13 @@
     "latest_solve_time": "2021-12-15T10:51:55.938338+00:00"
   },
   {
+    "user_id": "9e4a54b1-ee28-46e9-b4b1-6fd57feb83dc",
+    "username": "Brukernavn",
+    "score": 92,
+    "num_solves": 11,
+    "latest_solve_time": "2021-12-16T09:13:57.874179+00:00"
+  },
+  {
     "user_id": "d2837224-0224-4573-9f8a-0386c29c6486",
     "username": "vepsen",
     "score": 91,
@@ -901,13 +908,6 @@
     "score": 90,
     "num_solves": 9,
     "latest_solve_time": "2021-12-15T22:14:17.80796+00:00"
-  },
-  {
-    "user_id": "9e4a54b1-ee28-46e9-b4b1-6fd57feb83dc",
-    "username": "Brukernavn",
-    "score": 82,
-    "num_solves": 10,
-    "latest_solve_time": "2021-12-15T11:25:10.48097+00:00"
   },
   {
     "user_id": "4ca91829-f8bf-47ca-84e4-a6227d488a47",
