@@ -2128,6 +2128,20 @@
     "latest_solve_time": "2021-12-12T18:56:04.746432+00:00"
   },
   {
+    "user_id": "6c51a97b-8b2a-4229-8435-935c98eb238b",
+    "username": "grados_takk",
+    "score": 51,
+    "num_solves": 6,
+    "latest_solve_time": "2021-12-16T16:46:52.55913+00:00"
+  },
+  {
+    "user_id": "7566a0ae-1ad1-4664-997a-ae98e1da23f1",
+    "username": "Sinnatagen",
+    "score": 51,
+    "num_solves": 6,
+    "latest_solve_time": "2021-12-16T16:56:30.540287+00:00"
+  },
+  {
     "user_id": "20a8239a-64ed-41ac-ad94-8f5f2cfbbfa8",
     "username": "regiontog",
     "score": 50,
@@ -2581,20 +2595,6 @@
     "score": 41,
     "num_solves": 5,
     "latest_solve_time": "2021-12-11T20:48:12.073968+00:00"
-  },
-  {
-    "user_id": "6c51a97b-8b2a-4229-8435-935c98eb238b",
-    "username": "grados_takk",
-    "score": 41,
-    "num_solves": 5,
-    "latest_solve_time": "2021-12-16T15:57:55.606926+00:00"
-  },
-  {
-    "user_id": "7566a0ae-1ad1-4664-997a-ae98e1da23f1",
-    "username": "Sinnatagen",
-    "score": 41,
-    "num_solves": 5,
-    "latest_solve_time": "2021-12-16T16:12:24.232703+00:00"
   },
   {
     "user_id": "807c0074-b08a-4c22-9ed7-a8f6d999c2df",
