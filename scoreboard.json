@@ -224,6 +224,13 @@
     "latest_solve_time": "2021-12-16T10:57:54.720414+00:00"
   },
   {
+    "user_id": "dacde1a9-e065-4799-aebd-b26651cf9c42",
+    "username": "decoy",
+    "score": 133,
+    "num_solves": 16,
+    "latest_solve_time": "2021-12-16T11:06:00.141985+00:00"
+  },
+  {
     "user_id": "1a21378d-7730-4540-b021-8d7a85fee668",
     "username": "Telenor-Scoop",
     "score": 132,
@@ -264,13 +271,6 @@
     "score": 132,
     "num_solves": 15,
     "latest_solve_time": "2021-12-15T19:21:09.244943+00:00"
-  },
-  {
-    "user_id": "dacde1a9-e065-4799-aebd-b26651cf9c42",
-    "username": "decoy",
-    "score": 132,
-    "num_solves": 15,
-    "latest_solve_time": "2021-12-15T19:27:57.762719+00:00"
   },
   {
     "user_id": "ec0019e0-32b8-4cda-ab08-c7b5de55537e",
