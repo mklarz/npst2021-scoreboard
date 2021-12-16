@@ -273,6 +273,13 @@
     "latest_solve_time": "2021-12-16T17:12:06.964794+00:00"
   },
   {
+    "user_id": "a0f9b296-637d-439d-94e9-61a968834386",
+    "username": "GrønnUgle",
+    "score": 140,
+    "num_solves": 14,
+    "latest_solve_time": "2021-12-16T19:23:39.89829+00:00"
+  },
+  {
     "user_id": "36a3deb3-deb4-4ae6-bd68-16809592db19",
     "username": "Gulla 😎",
     "score": 133,
@@ -406,13 +413,6 @@
     "latest_solve_time": "2021-12-16T17:39:45.792624+00:00"
   },
   {
-    "user_id": "a0f9b296-637d-439d-94e9-61a968834386",
-    "username": "GrønnUgle",
-    "score": 130,
-    "num_solves": 13,
-    "latest_solve_time": "2021-12-15T17:38:20.061319+00:00"
-  },
-  {
     "user_id": "b970bff1-7798-4fa1-b99b-c612db3626ec",
     "username": "bobu",
     "score": 130,
@@ -509,6 +509,13 @@
     "score": 122,
     "num_solves": 14,
     "latest_solve_time": "2021-12-16T17:17:19.217295+00:00"
+  },
+  {
+    "user_id": "1bb76cf9-c0c4-4a48-b05e-f8837f365e64",
+    "username": "Robertz25",
+    "score": 122,
+    "num_solves": 14,
+    "latest_solve_time": "2021-12-16T19:23:15.416334+00:00"
   },
   {
     "user_id": "b36390a7-f41f-4fc9-9dcd-f9bb479f61c5",
@@ -677,13 +684,6 @@
     "score": 110,
     "num_solves": 11,
     "latest_solve_time": "2021-12-14T18:03:37.853907+00:00"
-  },
-  {
-    "user_id": "1bb76cf9-c0c4-4a48-b05e-f8837f365e64",
-    "username": "Robertz25",
-    "score": 102,
-    "num_solves": 12,
-    "latest_solve_time": "2021-12-14T13:58:12.387611+00:00"
   },
   {
     "user_id": "29ea7c35-3964-42eb-856d-f97a3f635b71",
@@ -903,6 +903,13 @@
     "latest_solve_time": "2021-12-16T18:51:07.074775+00:00"
   },
   {
+    "user_id": "cda84ae9-2ea5-40c1-b558-8af44fe68b69",
+    "username": "martinls",
+    "score": 91,
+    "num_solves": 10,
+    "latest_solve_time": "2021-12-16T19:15:49.039423+00:00"
+  },
+  {
     "user_id": "7c9f1b76-67dd-4987-b87f-2d2384a73f9c",
     "username": "MoneyMou$e",
     "score": 90,
@@ -985,13 +992,6 @@
     "score": 81,
     "num_solves": 9,
     "latest_solve_time": "2021-12-13T12:45:08.003942+00:00"
-  },
-  {
-    "user_id": "cda84ae9-2ea5-40c1-b558-8af44fe68b69",
-    "username": "martinls",
-    "score": 81,
-    "num_solves": 9,
-    "latest_solve_time": "2021-12-15T22:23:27.632791+00:00"
   },
   {
     "user_id": "b1f752fd-661f-461a-ac63-1d2290931afa",
