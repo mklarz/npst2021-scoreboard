@@ -1372,6 +1372,13 @@
     "latest_solve_time": "2021-12-16T09:36:36.084413+00:00"
   },
   {
+    "user_id": "0356144b-cc0f-4c47-bbfe-6797e2218a4f",
+    "username": "Lanje",
+    "score": 70,
+    "num_solves": 7,
+    "latest_solve_time": "2021-12-16T15:43:37.30077+00:00"
+  },
+  {
     "user_id": "7f7f430f-2b75-4ab8-9c6d-f4922f6f7b2c",
     "username": "TPU",
     "score": 61,
@@ -1545,13 +1552,6 @@
     "score": 60,
     "num_solves": 6,
     "latest_solve_time": "2021-12-07T21:38:07.524977+00:00"
-  },
-  {
-    "user_id": "0356144b-cc0f-4c47-bbfe-6797e2218a4f",
-    "username": "Lanje",
-    "score": 60,
-    "num_solves": 6,
-    "latest_solve_time": "2021-12-07T21:41:14.733481+00:00"
   },
   {
     "user_id": "081853ce-bb60-4c0b-bf92-85b1295b3f52",
@@ -2982,6 +2982,13 @@
     "latest_solve_time": "2021-12-15T21:32:27.377093+00:00"
   },
   {
+    "user_id": "7566a0ae-1ad1-4664-997a-ae98e1da23f1",
+    "username": "Sinnatagen",
+    "score": 31,
+    "num_solves": 4,
+    "latest_solve_time": "2021-12-16T15:41:01.662754+00:00"
+  },
+  {
     "user_id": "5102e31e-a541-4528-87ee-21639ff7031d",
     "username": "Fader Jank",
     "score": 30,
@@ -3801,11 +3808,11 @@
     "latest_solve_time": "2021-12-15T21:33:00.820993+00:00"
   },
   {
-    "user_id": "7566a0ae-1ad1-4664-997a-ae98e1da23f1",
-    "username": "Sinnatagen",
+    "user_id": "6c51a97b-8b2a-4229-8435-935c98eb238b",
+    "username": "grados_takk",
     "score": 30,
     "num_solves": 3,
-    "latest_solve_time": "2021-12-16T15:23:19.488472+00:00"
+    "latest_solve_time": "2021-12-16T15:44:44.917734+00:00"
   },
   {
     "user_id": "7588d617-b456-4597-88ad-ebdd04eb373f",
@@ -5353,13 +5360,6 @@
     "score": 20,
     "num_solves": 2,
     "latest_solve_time": "2021-12-16T12:48:54.094579+00:00"
-  },
-  {
-    "user_id": "6c51a97b-8b2a-4229-8435-935c98eb238b",
-    "username": "grados_takk",
-    "score": 20,
-    "num_solves": 2,
-    "latest_solve_time": "2021-12-16T13:05:12.325472+00:00"
   },
   {
     "user_id": "c27a72d6-8146-442a-93f7-449c880a6100",
