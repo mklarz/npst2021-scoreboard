@@ -14,6 +14,13 @@
     "latest_solve_time": "2021-12-18T18:18:25.381687+00:00"
   },
   {
+    "user_id": "09beb182-eafc-41f9-be8d-152e466d99b9",
+    "username": "Pzzaroo",
+    "score": 163,
+    "num_solves": 19,
+    "latest_solve_time": "2021-12-18T18:37:23.456168+00:00"
+  },
+  {
     "user_id": "77a49545-659f-4641-abd8-e8f8771b6e61",
     "username": "Marky_Mark",
     "score": 162,
@@ -84,11 +91,25 @@
     "latest_solve_time": "2021-12-18T18:18:46.273919+00:00"
   },
   {
-    "user_id": "09beb182-eafc-41f9-be8d-152e466d99b9",
-    "username": "Pzzaroo",
+    "user_id": "85e29406-9406-4635-bfa6-51895fcb40d9",
+    "username": "Oohsmile",
     "score": 153,
     "num_solves": 18,
-    "latest_solve_time": "2021-12-18T18:19:40.268539+00:00"
+    "latest_solve_time": "2021-12-18T18:32:34.272824+00:00"
+  },
+  {
+    "user_id": "1a21378d-7730-4540-b021-8d7a85fee668",
+    "username": "Telenor-Scoop",
+    "score": 153,
+    "num_solves": 18,
+    "latest_solve_time": "2021-12-18T18:40:31.978127+00:00"
+  },
+  {
+    "user_id": "123d98ee-f2bc-459a-bf1c-cce8a9bd54bc",
+    "username": "ceevase",
+    "score": 153,
+    "num_solves": 18,
+    "latest_solve_time": "2021-12-18T18:41:30.851209+00:00"
   },
   {
     "user_id": "2e6da62f-62de-4116-83b8-3a72869dfff6",
@@ -110,13 +131,6 @@
     "score": 144,
     "num_solves": 18,
     "latest_solve_time": "2021-12-16T18:24:11.408839+00:00"
-  },
-  {
-    "user_id": "123d98ee-f2bc-459a-bf1c-cce8a9bd54bc",
-    "username": "ceevase",
-    "score": 143,
-    "num_solves": 17,
-    "latest_solve_time": "2021-12-16T17:01:21.825746+00:00"
   },
   {
     "user_id": "bb723d60-1419-4c0b-a9b3-1bc4af29d308",
@@ -287,25 +301,11 @@
     "latest_solve_time": "2021-12-17T16:06:56.420952+00:00"
   },
   {
-    "user_id": "1a21378d-7730-4540-b021-8d7a85fee668",
-    "username": "Telenor-Scoop",
-    "score": 143,
-    "num_solves": 17,
-    "latest_solve_time": "2021-12-17T16:21:37.208725+00:00"
-  },
-  {
     "user_id": "f26a8ab8-887d-4e5d-8ef9-96de585feda8",
     "username": "henoik",
     "score": 143,
     "num_solves": 17,
     "latest_solve_time": "2021-12-17T16:36:58.125307+00:00"
-  },
-  {
-    "user_id": "85e29406-9406-4635-bfa6-51895fcb40d9",
-    "username": "Oohsmile",
-    "score": 143,
-    "num_solves": 17,
-    "latest_solve_time": "2021-12-18T14:46:33.337959+00:00"
   },
   {
     "user_id": "f8d7b5d2-ebb4-42c7-bdc6-432c7552d4e5",
