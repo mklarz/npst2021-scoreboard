@@ -203,11 +203,39 @@
     "latest_solve_time": "2021-12-18T21:17:27.035888+00:00"
   },
   {
+    "user_id": "ec0019e0-32b8-4cda-ab08-c7b5de55537e",
+    "username": "eriknn",
+    "score": 153,
+    "num_solves": 18,
+    "latest_solve_time": "2021-12-18T21:52:26.929239+00:00"
+  },
+  {
+    "user_id": "a5c9cc6b-085f-40a0-bcf8-431356dcb9c1",
+    "username": "runarmod",
+    "score": 153,
+    "num_solves": 18,
+    "latest_solve_time": "2021-12-18T21:56:00.176715+00:00"
+  },
+  {
+    "user_id": "b029a5ce-b934-4ad1-9626-de799662f66e",
+    "username": "Ju1iuS",
+    "score": 153,
+    "num_solves": 18,
+    "latest_solve_time": "2021-12-18T21:58:21.714443+00:00"
+  },
+  {
     "user_id": "2e6da62f-62de-4116-83b8-3a72869dfff6",
     "username": "Zig",
     "score": 152,
     "num_solves": 17,
     "latest_solve_time": "2021-12-18T18:00:30.751906+00:00"
+  },
+  {
+    "user_id": "e9e620d8-324f-4793-ae52-2ca7b42806d3",
+    "username": "Skanin",
+    "score": 152,
+    "num_solves": 17,
+    "latest_solve_time": "2021-12-18T21:57:35.776898+00:00"
   },
   {
     "user_id": "87f28469-5c94-4a7a-b9d1-d8cf8ad5749e",
@@ -280,27 +308,6 @@
     "latest_solve_time": "2021-12-16T20:24:16.07893+00:00"
   },
   {
-    "user_id": "b029a5ce-b934-4ad1-9626-de799662f66e",
-    "username": "Ju1iuS",
-    "score": 143,
-    "num_solves": 17,
-    "latest_solve_time": "2021-12-16T21:35:07.178855+00:00"
-  },
-  {
-    "user_id": "a5c9cc6b-085f-40a0-bcf8-431356dcb9c1",
-    "username": "runarmod",
-    "score": 143,
-    "num_solves": 17,
-    "latest_solve_time": "2021-12-17T07:45:37.064163+00:00"
-  },
-  {
-    "user_id": "ec0019e0-32b8-4cda-ab08-c7b5de55537e",
-    "username": "eriknn",
-    "score": 143,
-    "num_solves": 17,
-    "latest_solve_time": "2021-12-17T14:57:39.999731+00:00"
-  },
-  {
     "user_id": "f26a8ab8-887d-4e5d-8ef9-96de585feda8",
     "username": "henoik",
     "score": 143,
@@ -334,13 +341,6 @@
     "score": 142,
     "num_solves": 16,
     "latest_solve_time": "2021-12-16T18:28:41.92087+00:00"
-  },
-  {
-    "user_id": "e9e620d8-324f-4793-ae52-2ca7b42806d3",
-    "username": "Skanin",
-    "score": 142,
-    "num_solves": 16,
-    "latest_solve_time": "2021-12-16T19:01:39.396127+00:00"
   },
   {
     "user_id": "e39f18a7-55ba-47b3-b7ca-fa75127ac241",
@@ -637,6 +637,13 @@
     "latest_solve_time": "2021-12-18T00:28:06.761485+00:00"
   },
   {
+    "user_id": "b2ef4cf4-6d3a-485c-a9d2-375fe45218d1",
+    "username": "martusnorwegicus",
+    "score": 121,
+    "num_solves": 13,
+    "latest_solve_time": "2021-12-18T21:51:51.395909+00:00"
+  },
+  {
     "user_id": "89daf6a5-3681-4379-b811-5d1e6f42249b",
     "username": "...",
     "score": 113,
@@ -768,13 +775,6 @@
     "score": 110,
     "num_solves": 11,
     "latest_solve_time": "2021-12-17T19:31:03.996738+00:00"
-  },
-  {
-    "user_id": "b2ef4cf4-6d3a-485c-a9d2-375fe45218d1",
-    "username": "martusnorwegicus",
-    "score": 110,
-    "num_solves": 11,
-    "latest_solve_time": "2021-12-18T19:20:53.795881+00:00"
   },
   {
     "user_id": "50fc6f24-b3ce-42a1-a3b7-7e1fa3c48804",
@@ -2184,6 +2184,13 @@
     "latest_solve_time": "2021-12-16T16:56:30.540287+00:00"
   },
   {
+    "user_id": "aac43531-a25c-417f-b42d-556a8dd7b4e6",
+    "username": "Eivindh",
+    "score": 51,
+    "num_solves": 6,
+    "latest_solve_time": "2021-12-18T21:54:53.323537+00:00"
+  },
+  {
     "user_id": "20a8239a-64ed-41ac-ad94-8f5f2cfbbfa8",
     "username": "regiontog",
     "score": 50,
@@ -2625,13 +2632,6 @@
     "latest_solve_time": "2021-12-17T18:56:19.34831+00:00"
   },
   {
-    "user_id": "aac43531-a25c-417f-b42d-556a8dd7b4e6",
-    "username": "Eivindh",
-    "score": 41,
-    "num_solves": 5,
-    "latest_solve_time": "2021-12-18T12:00:09.652254+00:00"
-  },
-  {
     "user_id": "807c0074-b08a-4c22-9ed7-a8f6d999c2df",
     "username": "noragr",
     "score": 40,
@@ -3004,7 +3004,7 @@
   },
   {
     "user_id": "abe4dd06-c23e-43cd-81a2-e1a266f5c0cb",
-    "username": "beklager!",
+    "username": "@everyone",
     "score": 40,
     "num_solves": 4,
     "latest_solve_time": "2021-12-18T20:58:31.550159+00:00"
