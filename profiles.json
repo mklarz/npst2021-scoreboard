@@ -235,6 +235,11 @@
     "username": "siawash"
   },
   {
+    "id": "fb6579f7-cfcc-4664-91e0-3841144e2e45",
+    "updated_at": "2021-11-30T14:52:49.386352+00:00",
+    "username": "Sunniva"
+  },
+  {
     "id": "c387261b-432e-46e3-908d-2bc09e95ee30",
     "updated_at": "2021-11-30T13:38:04.273633+00:00",
     "username": "marrekanin"
@@ -368,11 +373,6 @@
     "id": "8fd52e33-ecbb-4f74-b722-d5c865aba352",
     "updated_at": "2021-11-30T14:51:24.666635+00:00",
     "username": "Snømann"
-  },
-  {
-    "id": "fb6579f7-cfcc-4664-91e0-3841144e2e45",
-    "updated_at": "2021-11-30T14:52:49.386352+00:00",
-    "username": null
   },
   {
     "id": "87f28469-5c94-4a7a-b9d1-d8cf8ad5749e",
