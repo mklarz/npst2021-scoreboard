@@ -658,6 +658,13 @@
     "latest_solve_time": "2021-12-19T13:13:44.057671+00:00"
   },
   {
+    "user_id": "d53e2dbf-4901-45f9-b9c9-c85bc2e3b340",
+    "username": "хакер человек",
+    "score": 120,
+    "num_solves": 12,
+    "latest_solve_time": "2021-12-19T14:33:48.991157+00:00"
+  },
+  {
     "user_id": "89daf6a5-3681-4379-b811-5d1e6f42249b",
     "username": "...",
     "score": 113,
@@ -761,13 +768,6 @@
     "score": 110,
     "num_solves": 11,
     "latest_solve_time": "2021-12-14T18:03:37.853907+00:00"
-  },
-  {
-    "user_id": "d53e2dbf-4901-45f9-b9c9-c85bc2e3b340",
-    "username": "хакер человек",
-    "score": 110,
-    "num_solves": 11,
-    "latest_solve_time": "2021-12-16T23:13:24.287375+00:00"
   },
   {
     "user_id": "ae61fa93-ce11-47c5-b302-b674accfd57a",
