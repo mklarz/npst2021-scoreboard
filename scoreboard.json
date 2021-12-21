@@ -98,6 +98,27 @@
     "latest_solve_time": "2021-12-21T17:43:20.517604+00:00"
   },
   {
+    "user_id": "468bc985-8d14-4200-bb4d-05df2361f863",
+    "username": "snabel-b",
+    "score": 183,
+    "num_solves": 21,
+    "latest_solve_time": "2021-12-21T17:46:11.375634+00:00"
+  },
+  {
+    "user_id": "0c316247-8104-4c91-b823-8a354c0ea007",
+    "username": "TorErik",
+    "score": 183,
+    "num_solves": 21,
+    "latest_solve_time": "2021-12-21T17:52:07.140819+00:00"
+  },
+  {
+    "user_id": "4347f52b-ef52-4f6f-8037-2808a76a344c",
+    "username": "fssl",
+    "score": 183,
+    "num_solves": 21,
+    "latest_solve_time": "2021-12-21T17:59:27.200663+00:00"
+  },
+  {
     "user_id": "87f28469-5c94-4a7a-b9d1-d8cf8ad5749e",
     "username": "⚡zup",
     "score": 174,
@@ -126,20 +147,6 @@
     "latest_solve_time": "2021-12-19T20:21:18.762493+00:00"
   },
   {
-    "user_id": "468bc985-8d14-4200-bb4d-05df2361f863",
-    "username": "snabel-b",
-    "score": 173,
-    "num_solves": 20,
-    "latest_solve_time": "2021-12-19T21:33:59.147285+00:00"
-  },
-  {
-    "user_id": "0c316247-8104-4c91-b823-8a354c0ea007",
-    "username": "TorErik",
-    "score": 173,
-    "num_solves": 20,
-    "latest_solve_time": "2021-12-19T21:36:40.821177+00:00"
-  },
-  {
     "user_id": "f4c84bf9-e50e-42bb-baa0-156081eab8a4",
     "username": "andreas",
     "score": 173,
@@ -152,13 +159,6 @@
     "score": 173,
     "num_solves": 20,
     "latest_solve_time": "2021-12-19T23:23:08.29414+00:00"
-  },
-  {
-    "user_id": "4347f52b-ef52-4f6f-8037-2808a76a344c",
-    "username": "fssl",
-    "score": 173,
-    "num_solves": 20,
-    "latest_solve_time": "2021-12-20T01:39:14.981023+00:00"
   },
   {
     "user_id": "0edb1555-0e25-4a36-aa96-db71589e48f1",
@@ -238,6 +238,13 @@
     "latest_solve_time": "2021-12-21T17:28:12.900106+00:00"
   },
   {
+    "user_id": "7864ee56-764b-4866-92dd-c4692e322d8d",
+    "username": "fjellape",
+    "score": 173,
+    "num_solves": 20,
+    "latest_solve_time": "2021-12-21T17:54:03.618755+00:00"
+  },
+  {
     "user_id": "77a49545-659f-4641-abd8-e8f8771b6e61",
     "username": "Marky_Mark",
     "score": 172,
@@ -271,13 +278,6 @@
     "score": 163,
     "num_solves": 19,
     "latest_solve_time": "2021-12-19T17:01:22.687221+00:00"
-  },
-  {
-    "user_id": "7864ee56-764b-4866-92dd-c4692e322d8d",
-    "username": "fjellape",
-    "score": 163,
-    "num_solves": 19,
-    "latest_solve_time": "2021-12-19T17:31:27.783503+00:00"
   },
   {
     "user_id": "97e7f23b-496d-4e4a-80bb-8fd30ff8b560",
@@ -369,6 +369,13 @@
     "score": 152,
     "num_solves": 17,
     "latest_solve_time": "2021-12-20T18:07:44.090815+00:00"
+  },
+  {
+    "user_id": "2894d095-486b-4f87-b2df-42bab7ca9057",
+    "username": "🍩 topotek 🍩",
+    "score": 152,
+    "num_solves": 17,
+    "latest_solve_time": "2021-12-21T17:57:39.134237+00:00"
   },
   {
     "user_id": "bf45edf7-b044-411b-b336-4210221b5cd9",
@@ -467,13 +474,6 @@
     "score": 142,
     "num_solves": 16,
     "latest_solve_time": "2021-12-20T07:36:39.040823+00:00"
-  },
-  {
-    "user_id": "2894d095-486b-4f87-b2df-42bab7ca9057",
-    "username": "🍩 topotek 🍩",
-    "score": 142,
-    "num_solves": 16,
-    "latest_solve_time": "2021-12-20T19:22:55.543443+00:00"
   },
   {
     "user_id": "6bb7c2e5-29d8-4887-9f8d-44d852f35dd0",
@@ -924,6 +924,13 @@
     "latest_solve_time": "2021-12-18T19:06:13.486432+00:00"
   },
   {
+    "user_id": "82f45398-1cbe-41e0-b1ab-8be88d0eb69d",
+    "username": "radagast🧙",
+    "score": 100,
+    "num_solves": 10,
+    "latest_solve_time": "2021-12-21T17:47:30.524585+00:00"
+  },
+  {
     "user_id": "2acaf8cb-c57a-4cb4-9730-ba2dd4c14355",
     "username": "AresDiode",
     "score": 92,
@@ -1048,13 +1055,6 @@
     "score": 90,
     "num_solves": 9,
     "latest_solve_time": "2021-12-19T15:50:52.623972+00:00"
-  },
-  {
-    "user_id": "82f45398-1cbe-41e0-b1ab-8be88d0eb69d",
-    "username": "radagast🧙",
-    "score": 90,
-    "num_solves": 9,
-    "latest_solve_time": "2021-12-20T03:02:50.136857+00:00"
   },
   {
     "user_id": "7d97409e-cffa-4620-bdd0-a1d5ba4b2382",
