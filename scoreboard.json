@@ -1,5 +1,26 @@
 [
   {
+    "user_id": "87f28469-5c94-4a7a-b9d1-d8cf8ad5749e",
+    "username": "⚡zup",
+    "score": 215,
+    "num_solves": 26,
+    "latest_solve_time": "2021-12-24T08:20:28.109281+00:00"
+  },
+  {
+    "user_id": "aeee8899-12d6-4b95-8dc2-ad7b0d0f4d18",
+    "username": "klarz",
+    "score": 215,
+    "num_solves": 26,
+    "latest_solve_time": "2021-12-24T08:20:47.990777+00:00"
+  },
+  {
+    "user_id": "635ec1de-8987-4d5f-bf33-86e6dee9e41c",
+    "username": "unblvr",
+    "score": 215,
+    "num_solves": 26,
+    "latest_solve_time": "2021-12-24T08:22:34.518139+00:00"
+  },
+  {
     "user_id": "c387261b-432e-46e3-908d-2bc09e95ee30",
     "username": "marrekanin",
     "score": 214,
@@ -7,32 +28,18 @@
     "latest_solve_time": "2021-12-24T08:10:52.181531+00:00"
   },
   {
+    "user_id": "d8d4d465-f4c0-41f1-9738-455dd71c48fd",
+    "username": "waperon",
+    "score": 214,
+    "num_solves": 25,
+    "latest_solve_time": "2021-12-24T08:28:34.695042+00:00"
+  },
+  {
     "user_id": "e9e620d8-324f-4793-ae52-2ca7b42806d3",
     "username": "Skanin",
     "score": 213,
     "num_solves": 24,
     "latest_solve_time": "2021-12-24T08:09:11.560576+00:00"
-  },
-  {
-    "user_id": "635ec1de-8987-4d5f-bf33-86e6dee9e41c",
-    "username": "unblvr",
-    "score": 205,
-    "num_solves": 25,
-    "latest_solve_time": "2021-12-23T18:34:59.334248+00:00"
-  },
-  {
-    "user_id": "aeee8899-12d6-4b95-8dc2-ad7b0d0f4d18",
-    "username": "klarz",
-    "score": 205,
-    "num_solves": 25,
-    "latest_solve_time": "2021-12-23T18:37:06.008021+00:00"
-  },
-  {
-    "user_id": "87f28469-5c94-4a7a-b9d1-d8cf8ad5749e",
-    "username": "⚡zup",
-    "score": 205,
-    "num_solves": 25,
-    "latest_solve_time": "2021-12-23T19:32:48.65738+00:00"
   },
   {
     "user_id": "9ed37aa0-37de-4a1a-b2c7-5652f46714db",
@@ -54,13 +61,6 @@
     "score": 204,
     "num_solves": 24,
     "latest_solve_time": "2021-12-23T18:05:44.805472+00:00"
-  },
-  {
-    "user_id": "d8d4d465-f4c0-41f1-9738-455dd71c48fd",
-    "username": "waperon",
-    "score": 204,
-    "num_solves": 24,
-    "latest_solve_time": "2021-12-23T18:10:35.755732+00:00"
   },
   {
     "user_id": "537b69cd-917d-49fe-9943-dbef9d80aa51",
