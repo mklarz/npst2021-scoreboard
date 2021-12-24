@@ -1,5 +1,19 @@
 [
   {
+    "user_id": "c387261b-432e-46e3-908d-2bc09e95ee30",
+    "username": "marrekanin",
+    "score": 214,
+    "num_solves": 25,
+    "latest_solve_time": "2021-12-24T08:10:52.181531+00:00"
+  },
+  {
+    "user_id": "e9e620d8-324f-4793-ae52-2ca7b42806d3",
+    "username": "Skanin",
+    "score": 213,
+    "num_solves": 24,
+    "latest_solve_time": "2021-12-24T08:09:11.560576+00:00"
+  },
+  {
     "user_id": "635ec1de-8987-4d5f-bf33-86e6dee9e41c",
     "username": "unblvr",
     "score": 205,
@@ -105,13 +119,6 @@
     "latest_solve_time": "2021-12-23T20:42:51.313111+00:00"
   },
   {
-    "user_id": "c387261b-432e-46e3-908d-2bc09e95ee30",
-    "username": "marrekanin",
-    "score": 204,
-    "num_solves": 24,
-    "latest_solve_time": "2021-12-23T20:53:55.16371+00:00"
-  },
-  {
     "user_id": "1799f06c-b9e4-4257-9851-0f1c7fd39023",
     "username": "tronderhack - 🦸",
     "score": 204,
@@ -166,13 +173,6 @@
     "score": 204,
     "num_solves": 24,
     "latest_solve_time": "2021-12-24T02:53:17.769715+00:00"
-  },
-  {
-    "user_id": "e9e620d8-324f-4793-ae52-2ca7b42806d3",
-    "username": "Skanin",
-    "score": 203,
-    "num_solves": 23,
-    "latest_solve_time": "2021-12-23T17:10:27.384016+00:00"
   },
   {
     "user_id": "b7d4c90c-008b-46b1-ac76-3c9ac739b4be",
@@ -392,6 +392,13 @@
     "latest_solve_time": "2021-12-23T18:18:09.73244+00:00"
   },
   {
+    "user_id": "6fc0d64f-1668-48fe-bd7f-b6e44bf10993",
+    "username": "Mats",
+    "score": 162,
+    "num_solves": 18,
+    "latest_solve_time": "2021-12-24T08:08:54.87312+00:00"
+  },
+  {
     "user_id": "a0f9b296-637d-439d-94e9-61a968834386",
     "username": "GrønnUgle",
     "score": 160,
@@ -418,13 +425,6 @@
     "score": 152,
     "num_solves": 17,
     "latest_solve_time": "2021-12-22T12:18:17.096978+00:00"
-  },
-  {
-    "user_id": "6fc0d64f-1668-48fe-bd7f-b6e44bf10993",
-    "username": "Mats",
-    "score": 152,
-    "num_solves": 17,
-    "latest_solve_time": "2021-12-23T14:30:59.184316+00:00"
   },
   {
     "user_id": "50fc6f24-b3ce-42a1-a3b7-7e1fa3c48804",
