@@ -322,6 +322,13 @@
     "latest_solve_time": "2021-12-24T11:17:03.134244+00:00"
   },
   {
+    "user_id": "933bd211-c763-4292-aced-372205277192",
+    "username": "brukernavn1",
+    "score": 182,
+    "num_solves": 20,
+    "latest_solve_time": "2021-12-24T13:03:03.501741+00:00"
+  },
+  {
     "user_id": "123d98ee-f2bc-459a-bf1c-cce8a9bd54bc",
     "username": "ceevase",
     "score": 174,
@@ -355,13 +362,6 @@
     "score": 172,
     "num_solves": 19,
     "latest_solve_time": "2021-12-22T09:54:38.01992+00:00"
-  },
-  {
-    "user_id": "933bd211-c763-4292-aced-372205277192",
-    "username": "brukernavn1",
-    "score": 172,
-    "num_solves": 19,
-    "latest_solve_time": "2021-12-23T17:21:57.602022+00:00"
   },
   {
     "user_id": "87aa3beb-9ea7-4e31-a988-c66af968de61",
@@ -686,6 +686,13 @@
     "latest_solve_time": "2021-12-21T19:16:54.609351+00:00"
   },
   {
+    "user_id": "122dfe09-9493-456f-b95c-62728ddcfe9e",
+    "username": "Pepperkake",
+    "score": 130,
+    "num_solves": 13,
+    "latest_solve_time": "2021-12-24T13:02:42.976193+00:00"
+  },
+  {
     "user_id": "519eab8a-178e-4b9b-84f5-d76a6107f38b",
     "username": "phena",
     "score": 123,
@@ -768,13 +775,6 @@
     "score": 120,
     "num_solves": 12,
     "latest_solve_time": "2021-12-23T18:08:28.44945+00:00"
-  },
-  {
-    "user_id": "122dfe09-9493-456f-b95c-62728ddcfe9e",
-    "username": "Pepperkake",
-    "score": 120,
-    "num_solves": 12,
-    "latest_solve_time": "2021-12-23T20:59:36.069714+00:00"
   },
   {
     "user_id": "2942268f-9e76-4322-bb9f-7483cbf99494",
@@ -3969,6 +3969,13 @@
     "latest_solve_time": "2021-12-23T02:14:16.719597+00:00"
   },
   {
+    "user_id": "49ffceec-be5f-4471-8bd0-a8a1e753dd6f",
+    "username": "Justisminister",
+    "score": 30,
+    "num_solves": 3,
+    "latest_solve_time": "2021-12-24T13:11:41.745944+00:00"
+  },
+  {
     "user_id": "7588d617-b456-4597-88ad-ebdd04eb373f",
     "username": "Salat",
     "score": 21,
@@ -5101,13 +5108,6 @@
     "score": 20,
     "num_solves": 2,
     "latest_solve_time": "2021-12-05T12:52:11.248653+00:00"
-  },
-  {
-    "user_id": "49ffceec-be5f-4471-8bd0-a8a1e753dd6f",
-    "username": "Justisminister",
-    "score": 20,
-    "num_solves": 2,
-    "latest_solve_time": "2021-12-05T15:25:28.967628+00:00"
   },
   {
     "user_id": "670259a2-2072-405b-92a1-f4346be2164a",
