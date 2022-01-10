@@ -1935,11 +1935,6 @@
     "username": "ArtVandelay"
   },
   {
-    "id": "35efd07a-36b3-450e-819b-bc8dc33f59e4",
-    "updated_at": "2021-12-01T07:50:26.172186+00:00",
-    "username": "Cilie"
-  },
-  {
     "id": "df7a3e72-e751-49e3-83ed-26da78cea7ba",
     "updated_at": "2021-12-01T07:48:08.698276+00:00",
     "username": "Tørrfisk"
@@ -2113,6 +2108,11 @@
     "id": "44b0361d-d11e-490b-b7f8-38fb22d72fd3",
     "updated_at": "2021-11-30T15:58:11.7658+00:00",
     "username": "langemyh"
+  },
+  {
+    "id": "35efd07a-36b3-450e-819b-bc8dc33f59e4",
+    "updated_at": "2021-12-01T07:50:26.172186+00:00",
+    "username": "Loke"
   },
   {
     "id": "45e6dfb7-5587-43f8-8f65-e295d26aaea4",
